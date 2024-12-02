@@ -1,0 +1,604 @@
+{
+    "Swing states": [
+        {
+            "Title": "Trump wins all seven swing states",
+            "Score": 80,
+            "URL": "https://www.theguardian.com/us-news/2024/nov/10/trump-wins-arizona-completing-sweep-of-all-seven-battleground-states-ap-reports",
+            "Created_UTC": 1731218629.0
+        },
+        {
+            "Title": "Trump called winner in Arizona, completing sweep of swing states",
+            "Score": 418,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/11/09/trump-called-winner-in-arizona-completing-sweep-of-swing-states/76169178007/",
+            "Created_UTC": 1731209024.0
+        },
+        {
+            "Title": "Trump wins Arizona to sweep swing states and secure 312 total electoral votes",
+            "Score": 33,
+            "URL": "https://www.foxnews.com/politics/trump-wins-arizona-sweep-swing-states-secure-312-total-electoral-votes",
+            "Created_UTC": 1731211436.0
+        },
+        {
+            "Title": "Democrats on track to win all but one of the swing state Senate races",
+            "Score": 11392,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/11/09/ticket-splitting-2024-election/76098631007/",
+            "Created_UTC": 1731175587.0
+        },
+        {
+            "Title": "Trump wins Arizona, flipping a swing state Biden won in 2020",
+            "Score": 29,
+            "URL": "https://www.nbcnews.com/politics/2024-election/trump-wins-arizona-election-harris-swing-state-rcna173809",
+            "Created_UTC": 1731205244.0
+        },
+        {
+            "Title": "Trump wins Pennsylvania, prize of the swing states",
+            "Score": 131,
+            "URL": "https://komonews.com/news/nation-world/trump-wins-pennsylvania-prize-of-the-swing-states",
+            "Created_UTC": 1730878898.0
+        },
+        {
+            "Title": "Swing states: how Democratic vote stayed flat while Republican gains won it for Trump",
+            "Score": 28,
+            "URL": "https://www.theguardian.com/us-news/2024/nov/08/swing-states-how-democrat-vote-stayed-flat-while-republican-gains-won-it-for-trump",
+            "Created_UTC": 1731063234.0
+        },
+        {
+            "Title": "Tracker: Where are the remaining votes in key swing states?",
+            "Score": 92,
+            "URL": "https://www.nbcnews.com/politics/2024-election/election-2024-tracker-remaining-votes-swing-states-rcna178221",
+            "Created_UTC": 1730869994.0
+        },
+        {
+            "Title": "New Jersey might be a swing state now",
+            "Score": 9,
+            "URL": "https://www.politico.com/news/2024/11/06/new-jersey-swing-state-red-00187965",
+            "Created_UTC": 1730949115.0
+        },
+        {
+            "Title": "Voters embrace calm before the storm in swing states on Election Day",
+            "Score": 189,
+            "URL": "https://www.bbc.com/news/articles/cgejgrqvnv3o",
+            "Created_UTC": 1730829608.0
+        },
+        {
+            "Title": "Donald Trump wins North Carolina, picks up coveted Southern swing state",
+            "Score": 137,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/11/05/donald-trump-wins-north-carolina/75797991007/",
+            "Created_UTC": 1730868804.0
+        },
+        {
+            "Title": "Trump wins Georgia, holding a key swing state over Harris in 2024 election",
+            "Score": 833,
+            "URL": "https://www.nbcnews.com/news/amp/rcna173811",
+            "Created_UTC": 1730873046.0
+        },
+        {
+            "Title": "New poll spells hope for Harris as she leads Trump in four key swing states",
+            "Score": 7401,
+            "URL": "https://www.independent.co.uk/news/world/americas/us-politics/trump-harris-poll-swing-states-north-carolina-nevada-b2640914.html",
+            "Created_UTC": 1730733829.0
+        },
+        {
+            "Title": "Poll: Harris has massive lead among swing state college students",
+            "Score": 3823,
+            "URL": "https://www.axios.com/2024/11/04/poll-harris-trump-swing-state-college-students",
+            "Created_UTC": 1730757585.0
+        },
+        {
+            "Title": "Swing State Voters Hounded by Fishy Texts Claiming to Be From Harris",
+            "Score": 328,
+            "URL": "https://newrepublic.com/post/187947/michigan-pennsylvania-texts-israel-gaza-kamala-harris",
+            "Created_UTC": 1730823954.0
+        },
+        {
+            "Title": "Police say they are 'not aware of anything' after Donald Trump claims 'massive CHEATING' in a key swing state",
+            "Score": 11221,
+            "URL": "https://fortune.com/2024/11/05/donald-trump-claims-cheating-police-philadelphia-pennsylvania/",
+            "Created_UTC": 1730847969.0
+        },
+        {
+            "Title": "Musk-linked Pac accused of targeting Jewish and Arab Americans in swing states | US elections 2024",
+            "Score": 97,
+            "URL": "https://www.theguardian.com/us-news/2024/nov/04/election-musk-pac-michigan-ads-israel-gaza",
+            "Created_UTC": 1730759738.0
+        },
+        {
+            "Title": "Kamala Harris ahead in enough swing states to win, Times poll says",
+            "Score": 16567,
+            "URL": "https://www.thetimes.com/world/us-world/article/us-election-2024-swing-state-polls-c8r398mnf?utm_medium=Social&utm_source=Reddit#Echobox=1730491486",
+            "Created_UTC": 1730491570.0
+        },
+        {
+            "Title": "Asian-American community\u2019s support could help Kamala Harris win swing state Pennsylvania",
+            "Score": 252,
+            "URL": "https://www.straitstimes.com/world/united-states/asian-american-communitys-support-could-help-harris-win-swing-state-pennsylvania",
+            "Created_UTC": 1730737893.0
+        },
+        {
+            "Title": "Pump Prices Tumble 20% in Key Swing States Ahead of Election",
+            "Score": 1282,
+            "URL": "https://www.bloomberg.com/news/articles/2024-11-01/pump-prices-tumble-20-in-key-swing-states-ahead-of-election?utm_content=business&utm_campaign=socialflow&utm_source=threads&utm_medium=social",
+            "Created_UTC": 1730462622.0
+        },
+        {
+            "Title": "North Carolina is a swing state, so why are its top GOP candidates far-right MAGA extremists?\n",
+            "Score": 357,
+            "URL": "https://www.lgbtqnation.com/2024/11/north-carolina-is-a-swing-state-so-why-are-its-top-gop-candidates-far-right-maga-extremists/",
+            "Created_UTC": 1730752258.0
+        },
+        {
+            "Title": "Indian Americans in Swing States Become Democratic Targets",
+            "Score": 51,
+            "URL": "https://www.bloomberg.com/news/articles/2024-10-31/kamala-harris-campaign-targets-new-indian-american-voters-in-key-swing-states",
+            "Created_UTC": 1730398948.0
+        },
+        {
+            "Title": "Trump 'garbage' comments 'will drive more Latino turnout in swing states'",
+            "Score": 469,
+            "URL": "https://www.newsweek.com/latinos-swing-states-vote-donald-trump-garbage-comments-1978112",
+            "Created_UTC": 1730396073.0
+        },
+        {
+            "Title": "Donald Trump's MSG Rally Cost Him With Swing State Voters",
+            "Score": 1450,
+            "URL": "https://www.newsweek.com/donald-trumps-msg-rally-cost-him-swing-state-voters-1978887",
+            "Created_UTC": 1730490615.0
+        },
+        {
+            "Title": "Swing state officials prepare for potential disruptions around December electors meetings",
+            "Score": 181,
+            "URL": "https://www.nbcnews.com/politics/2024-election/state-officials-prepare-potential-disruptions-electors-meetings-rcna177865",
+            "Created_UTC": 1730553993.0
+        },
+        {
+            "Title": "Harris campaign to hold livestream show from every swing state Monday night",
+            "Score": 687,
+            "URL": "https://thehill.com/homenews/campaign/4966998-harris-campaign-to-hold-swing-state-livestream/",
+            "Created_UTC": 1730544035.0
+        },
+        {
+            "Title": "Abortion could tilt swing states like Pennsylvania for Democrats, experts say",
+            "Score": 356,
+            "URL": "https://www.salon.com/2024/10/31/abortion-could-tilt-swing-states-like-pennsylvania-for-democrats-experts-say/",
+            "Created_UTC": 1730384565.0
+        },
+        {
+            "Title": "Early voting data shows flood of new Democratic women and Republican men in these swing state.",
+            "Score": 404,
+            "URL": "https://fortune.com/2024/11/02/early-voting-data-new-democratic-women-republican-men-donald-trump-kamala-harris/",
+            "Created_UTC": 1730615435.0
+        },
+        {
+            "Title": "Move over swing states: Control of Congress runs through New York \u2014 and costs a lot",
+            "Score": 29,
+            "URL": "https://gothamist.com/news/new-york-congressional-elections-outside-spending",
+            "Created_UTC": 1730480572.0
+        },
+        {
+            "Title": "Trump will spend every day until the election in North Carolina, a swing state he won twice",
+            "Score": 515,
+            "URL": "https://apnews.com/article/donald-trump-north-carolina-campaign-aacda8a46f20d1dc654ca9ef4c2c3de8",
+            "Created_UTC": 1730566996.0
+        },
+        {
+            "Title": "Meet the Democrats reaching swing state voters where they surf- adult websites. ",
+            "Score": 162,
+            "URL": "https://www.npr.org/2024/11/01/nx-s1-5168877/2024-election-pac-trump-porn-sites?origin=serp_auto",
+            "Created_UTC": 1730484187.0
+        },
+        {
+            "Title": "In US swing states, officials brace for conspiracy theories and violence",
+            "Score": 93,
+            "URL": "https://www.reuters.com/world/us/us-swing-states-officials-brace-conspiracy-theories-violence-2024-10-30/",
+            "Created_UTC": 1730307732.0
+        },
+        {
+            "Title": "How each of the 7 key swing states would handle a 2024 recount",
+            "Score": 30,
+            "URL": "https://www.nbcnews.com/politics/2024-election/recount-laws-provisions-swing-states-trump-harris-election-rcna175476",
+            "Created_UTC": 1730366501.0
+        },
+        {
+            "Title": "Swing State Newspaper Slams Trump: \u2018Crippled Cognitively\u2019 With \u2018Clear Signs Of Mental Illness\u2019",
+            "Score": 7769,
+            "URL": "https://www.huffpost.com/entry/las-vegas-sun-donald-trump-2024-election_n_672340ebe4b0871068fe2701",
+            "Created_UTC": 1730373253.0
+        },
+        {
+            "Title": "Make it stop! Voters in US swing states frazzled by ads blitz",
+            "Score": 104,
+            "URL": "https://www.reuters.com/world/us/make-it-stop-voters-us-swing-states-frazzled-by-ads-blitz-2024-10-30/",
+            "Created_UTC": 1730296294.0
+        },
+        {
+            "Title": "Democrats are beating Republicans in voter enthusiasm, even as swing-state polls show tight race",
+            "Score": 5048,
+            "URL": "https://www.businessinsider.com/democrats-republicans-voter-enthusiasm-swing-state-polls-2024-10",
+            "Created_UTC": 1730398402.0
+        },
+        {
+            "Title": "Will Pennsylvania\u2019s economic rebound help deliver the crucial swing state to Harris?",
+            "Score": 168,
+            "URL": "https://penncapital-star.com/commentary/will-pennsylvanias-economic-rebound-help-deliver-the-crucial-swing-state-to-harris/",
+            "Created_UTC": 1730376060.0
+        },
+        {
+            "Title": "Some Trump Electors In Swing States Are Primed To \u2018Stop The Steal\u2019 Again In 2024",
+            "Score": 53,
+            "URL": "https://talkingpointsmemo.com/news/some-trump-electors-in-swing-states-are-primed-to-stop-the-steal-again-in-2024",
+            "Created_UTC": 1730303892.0
+        },
+        {
+            "Title": "Carville: Trump rally comedian\u2019s remarks \u2018gonna cost him votes\u2019 in swing states",
+            "Score": 367,
+            "URL": "https://thehill.com/homenews/race-politics/4958592-james-carville-donald-trump-tony-hinchcliffe-puerto-rico-2024/",
+            "Created_UTC": 1730204415.0
+        },
+        {
+            "Title": "LGBTQ+ voters in these 4 states could swing the 2024 presidential election",
+            "Score": 173,
+            "URL": "https://theconversation.com/lgbtq-voters-in-these-4-states-could-swing-the-2024-presidential-election-239656",
+            "Created_UTC": 1730174623.0
+        },
+        {
+            "Title": "Majority of swing-state voters say they fear violence if Trump loses ",
+            "Score": 256,
+            "URL": "https://www.washingtonpost.com/politics/2024/10/30/voters-fear-violence-trump-loss/?utm_campaign=wp_main&utm_medium=social&utm_source=reddit.com",
+            "Created_UTC": 1730296167.0
+        },
+        {
+            "Title": "Majority of swing-state voters say they fear violence if Trump loses",
+            "Score": 129,
+            "URL": "https://www.washingtonpost.com/politics/2024/10/30/voters-fear-violence-trump-loss/",
+            "Created_UTC": 1730302064.0
+        },
+        {
+            "Title": "Supreme Court rejects push to remove Robert F. Kennedy Jr. from ballot in two swing states",
+            "Score": 397,
+            "URL": "https://apnews.com/article/43d8fed8fe69d8e4bfefd3e2b391e9f5",
+            "Created_UTC": 1730235606.0
+        },
+        {
+            "Title": "Supreme Court rejects push to remove Robert F. Kennedy Jr. from ballot in two swing states",
+            "Score": 178,
+            "URL": "https://apnews.com/article/kennedy-supreme-court-ballot-michigan-wisconsin-43d8fed8fe69d8e4bfefd3e2b391e9f5",
+            "Created_UTC": 1730251956.0
+        },
+        {
+            "Title": "Most swing state voters believe Trump will not accept defeat if he loses election",
+            "Score": 472,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/30/trump-defeat-voter-swing-state",
+            "Created_UTC": 1730302036.0
+        },
+        {
+            "Title": "Supreme Court rejects push to remove Robert F. Kennedy Jr. from ballot in two swing states",
+            "Score": 98,
+            "URL": "https://apnews.com/article/kennedy-supreme-court-ballot-michigan-wisconsin-43d8fed8fe69d8e4bfefd3e2b391e9f5?utm_source=copy&utm_medium=share",
+            "Created_UTC": 1730239096.0
+        },
+        {
+            "Title": "US union members door-knock in swing states for Harris: \u2018It\u2019s a no-brainer for us\u2019 ",
+            "Score": 693,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/27/election-harris-unions-swing-states",
+            "Created_UTC": 1730217983.0
+        },
+        {
+            "Title": "\u2018We have to vote now\u2019: How a Puerto Rico joke at a Trump rally may change the race in a key swing state",
+            "Score": 1209,
+            "URL": "https://www.telegraph.co.uk/us/politics/2024/10/31/inside-pennsylvania-puerto-ricans-vote-kamala-harris/",
+            "Created_UTC": 1730406303.0
+        },
+        {
+            "Title": "Most Swing-State Voters Fear Violence if Trump Loses and Think He Won\u2019t Accept Defeat: Report",
+            "Score": 311,
+            "URL": "https://www.vanityfair.com/news/story/most-swing-state-voters-fear-violence-if-trump-loses-and-think-he-wont-accept-defeat",
+            "Created_UTC": 1730313191.0
+        },
+        {
+            "Title": "Counting votes is now a dangerous job: how it feels for frontline, swing-state workers",
+            "Score": 201,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/10/28/election-workers-2024-hostility/75586254007/",
+            "Created_UTC": 1730248839.0
+        },
+        {
+            "Title": "Trump veers away from swing states for his Madison Square Garden moment",
+            "Score": 103,
+            "URL": "https://apnews.com/article/fcfe75be7f8281fde7bffa3adb3bba5d",
+            "Created_UTC": 1730054841.0
+        },
+        {
+            "Title": "Swing state teachers are prepping young voters for Election Day",
+            "Score": 158,
+            "URL": "https://www.usatoday.com/story/news/education/2024/10/28/teachers-swing-states-young-voters-election/75781988007/",
+            "Created_UTC": 1730110782.0
+        },
+        {
+            "Title": "Ohio is not a swing state \u2014 but this is why it matters",
+            "Score": 38,
+            "URL": "https://www.thetimes.com/article/4e69cfc8-63ca-4356-a670-8055b3d1fd0d",
+            "Created_UTC": 1730203604.0
+        },
+        {
+            "Title": "Trump veers away from swing states for his Madison Square Garden moment",
+            "Score": 137,
+            "URL": "https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d",
+            "Created_UTC": 1730003114.0
+        },
+        {
+            "Title": "MAGA\u2019s closing argument: Racist attacks on a critical bloc of swing-state voters",
+            "Score": 192,
+            "URL": "https://www.vox.com/politics/380462/trump-tony-hinchcliffe-puerto-rico-latinos-pennsylvania",
+            "Created_UTC": 1730151238.0
+        },
+        {
+            "Title": "The Swing States Are in Good Hands",
+            "Score": 70,
+            "URL": "https://www.theatlantic.com/politics/archive/2024/10/2024-election-risks-swing-states/680348/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo",
+            "Created_UTC": 1729781316.0
+        },
+        {
+            "Title": "A (sort-of) illustrated guide to the voting systems of three crucial swing states",
+            "Score": 22,
+            "URL": "https://www.nbcnews.com/politics/2024-election/sort-illustrated-guide-voting-systems-three-crucial-swing-states-rcna177043",
+            "Created_UTC": 1729951505.0
+        },
+        {
+            "Title": "Musk resumes $1M giveaways to swing state voters",
+            "Score": 172,
+            "URL": "https://thehill.com/policy/technology/4953094-musk-resumes-1m-giveaways-to-swing-state-voters/",
+            "Created_UTC": 1729873926.0
+        },
+        {
+            "Title": "\u201cNo Good Excuse\u201d: Judge Tosses Republicans\u2019 Pathetic Election Move - Republicans and their shady election tactics have been dealt a serious blow in yet another crucial swing state.",
+            "Score": 662,
+            "URL": "https://newrepublic.com/post/187663/judge-republicans-pennsylvania-election-voting",
+            "Created_UTC": 1730223436.0
+        },
+        {
+            "Title": "In Texas, Harris embraces Beyonc\u00e9 and warns swing-state voters that \u2018Trump abortion bans\u2019 are coming for them",
+            "Score": 443,
+            "URL": "https://www.cnn.com/2024/10/25/politics/harris-reproductive-rights-texas-beyonce/index.html",
+            "Created_UTC": 1729959379.0
+        },
+        {
+            "Title": "UAW members support Harris over Trump by 22 points in swing states  - Poll conducted by union shows Democrat has significant advantage over Republican in battleground states",
+            "Score": 691,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/23/uaw-harris-swing-state-poll",
+            "Created_UTC": 1729717203.0
+        },
+        {
+            "Title": "Are early swing state voters breaking for Trump or Harris? What a new poll found",
+            "Score": 12,
+            "URL": "https://www.miamiherald.com/news/nation-world/national/article294534769.html",
+            "Created_UTC": 1729878249.0
+        },
+        {
+            "Title": "Republican lawsuits over overseas and military voting hit setbacks in 2 swing states",
+            "Score": 281,
+            "URL": "https://www.npr.org/2024/10/21/nx-s1-5159996/uocava-overseas-voters-military-lawsuit-republican",
+            "Created_UTC": 1729592815.0
+        },
+        {
+            "Title": "Trump\u2019s \u201cSecretary of Retribution\u201d Reveals Plan to Steal a Swing State",
+            "Score": 500,
+            "URL": "https://newrepublic.com/post/187411/trump-secretary-retribution-plan-steal-swing-state-north-carolina-election",
+            "Created_UTC": 1729632658.0
+        },
+        {
+            "Title": "Pressure mounts on prosecutors to review Musk\u2019s $1M swing-state petition giveaway",
+            "Score": 559,
+            "URL": "https://www.nbcnews.com/tech/tech-news/elon-musk-petition-million-swing-state-giveaway-money-legal-rcna176568",
+            "Created_UTC": 1729631461.0
+        },
+        {
+            "Title": "Bruce Springsteen to Headline Swing State Rallies With Kamala Harris, Barack Obama",
+            "Score": 125,
+            "URL": "https://www.rollingstone.com/music/music-news/bruce-springsteen-perform-rallies-kamala-harris-barack-obama-1235139971/",
+            "Created_UTC": 1729617395.0
+        },
+        {
+            "Title": "Don\u2019t let Trump\u2019s buzzy sideshows distract you from his traditional swing-state strategy",
+            "Score": 43,
+            "URL": "https://www.politico.com/news/2024/10/23/trump-sideshows-swing-state-campaign-strategy-00184923",
+            "Created_UTC": 1729697827.0
+        },
+        {
+            "Title": "Hi, Reddit! I'm Damian Paletta, I oversee the WSJ\u2019s Washington bureau. Ask me anything about the 2024 election.",
+            "Score": 12,
+            "URL": "https://www.reddit.com/r/politics/comments/1gfrop7/hi_reddit_im_damian_paletta_i_oversee_the_wsjs/",
+            "Created_UTC": 1730308195.0
+        },
+        {
+            "Title": "Musk\u2019s $1 million swing-state voter lottery falls into legal gray area, experts say",
+            "Score": 119,
+            "URL": "https://www.nbcnews.com/tech/tech-news/musk-1-million-voter-petition-lottery-falls-legal-gray-area-experts-s-rcna176362",
+            "Created_UTC": 1729549471.0
+        },
+        {
+            "Title": "Harris vs. Trump: New presidential swing state poll has Harris up 8% in Michigan",
+            "Score": 7089,
+            "URL": "https://www.masslive.com/politics/2024/10/harris-vs-trump-new-presidential-swing-state-poll-has-harris-up-8.html?outputType=amp",
+            "Created_UTC": 1729384532.0
+        },
+        {
+            "Title": "Mark Cuban will campaign for Kamala Harris in 3 key swing states",
+            "Score": 7546,
+            "URL": "https://www.businessinsider.com/kamala-harris-mark-cuban-campaign-swing-states-sec-chair-2024-10",
+            "Created_UTC": 1729190855.0
+        },
+        {
+            "Title": "High Prices, Low Supply: Three Swing State Cities Show the Housing Crunch Ahead of the Election",
+            "Score": 9,
+            "URL": "https://www.bloomberg.com/news/features/2024-10-21/middle-class-families-grapple-with-housing-crunch-in-election-swing-states",
+            "Created_UTC": 1729532220.0
+        },
+        {
+            "Title": "Elon Musk offers $1 million a day to entice swing state voters to sign petition",
+            "Score": 79,
+            "URL": "https://www.cnbc.com/2024/10/20/elon-musk-offers-1-million-a-day-to-entice-swing-state-voters-.html",
+            "Created_UTC": 1729441410.0
+        },
+        {
+            "Title": "Labour to send 100 party staff to US to help Democrats in swing states",
+            "Score": 130,
+            "URL": "https://www.telegraph.co.uk/politics/2024/10/17/labour-sends-staff-help-democrats-us-election-kamala-harris/",
+            "Created_UTC": 1729217475.0
+        },
+        {
+            "Title": "British Labour Party sending staff to campaign for Harris in US swing states",
+            "Score": 46,
+            "URL": "https://mynbc15.com/amp/news/nation-world/british-labour-party-sending-staff-to-campaign-for-harris-in-us-swing-states-united-kingdom-uk-left-leaning-kamala-harris-2024-election-democratic-party-north-carolina-pennsylvania",
+            "Created_UTC": 1729211464.0
+        },
+        {
+            "Title": "Massive influx of shadowy get-out-the-vote spending floods swing states ",
+            "Score": 60,
+            "URL": "https://www.washingtonpost.com/politics/2024/10/17/get-out-the-vote-campaigns-election/?utm_campaign=wp_main&utm_medium=social&utm_source=reddit.com",
+            "Created_UTC": 1729173482.0
+        },
+        {
+            "Title": "Harris maintains lead over Trump among Black swing state voters \u2013 poll",
+            "Score": 438,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/17/harris-trump-black-swing-state-voters",
+            "Created_UTC": 1729210816.0
+        },
+        {
+            "Title": "Harris maintains lead over Trump among Black swing state voters \u2013 poll",
+            "Score": 334,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/17/harris-trump-black-swing-state-voters?CMP=Share_AndroidApp_Other",
+            "Created_UTC": 1729192654.0
+        },
+        {
+            "Title": "Mark Cuban campaigns with Harris in Wisconsin to kick off three-state swing",
+            "Score": 1117,
+            "URL": "https://www.cnbc.com/2024/10/17/kamala-harris-mark-cuban-campaign-trump-wisconsin.html",
+            "Created_UTC": 1729175655.0
+        },
+        {
+            "Title": "Anti-Trump ads target porn viewers in swing states",
+            "Score": 436,
+            "URL": "https://www.newsweek.com/ftw-pac-swing-state-porn-advertisements-trump-1968682?utm_medium=Social&utm_source=Twitter#Echobox=1728935368",
+            "Created_UTC": 1728935492.0
+        },
+        {
+            "Title": "Right-Wing Activists Pushed False Claims About Election Fraud. Now They\u2019re Recruiting Poll Workers in Swing States.",
+            "Score": 357,
+            "URL": "https://www.propublica.org/article/poll-worker-recruitment-swing-states-true-the-vote-lion-of-judah",
+            "Created_UTC": 1729076105.0
+        },
+        {
+            "Title": "Indigenous voters could give Harris-Walz an edge in \u201ctribal wall\u201d swing states",
+            "Score": 901,
+            "URL": "https://www.salon.com/2024/10/14/indigenous-could-give-harris-walz-an-edge-in-tribal-wall-swing-states/",
+            "Created_UTC": 1728900826.0
+        },
+        {
+            "Title": "With her own race at home in Mass., Elizabeth Warren stumps in swing states for Kamala Harris",
+            "Score": 74,
+            "URL": "https://www.bostonglobe.com/2024/10/15/nation/elizabeth-warren-swing-states-kamala-harris-defeat-trump/?s_campaign=audience:reddit",
+            "Created_UTC": 1729003188.0
+        },
+        {
+            "Title": "I\u2019m Amanda Marcotte, a Salon journalist who has covered the Christian right and now the MAGA movement for almost two decades. Ask me anything!",
+            "Score": 147,
+            "URL": "https://www.reddit.com/r/politics/comments/1gb6hng/im_amanda_marcotte_a_salon_journalist_who_has/",
+            "Created_UTC": 1729786534.0
+        },
+        {
+            "Title": "Elon Musk hits the campaign trail in a key swing state after donating $75 million to a pro-Trump super PAC",
+            "Score": 9,
+            "URL": "https://www.businessinsider.com/elon-musk-campaign-trail-pennsylvania-donald-trump-key-swing-state-2024-10?op=1",
+            "Created_UTC": 1729086984.0
+        },
+        {
+            "Title": "Swing states scramble to keep elections on track after hurricanes",
+            "Score": 92,
+            "URL": "https://www.csmonitor.com/USA/Politics/2024/1011/election-georgia-north-carolina-hurricane-helene",
+            "Created_UTC": 1728654555.0
+        },
+        {
+            "Title": "New wave of GOP lawsuits target overseas ballots in key swing states",
+            "Score": 128,
+            "URL": "https://www.nbcnews.com/politics/2024-election/new-wave-gop-lawsuits-target-overseas-ballots-key-swing-states-rcna174934",
+            "Created_UTC": 1728600706.0
+        },
+        {
+            "Title": "Porn stars launch campaign against Project 2025 targeting swing states",
+            "Score": 1275,
+            "URL": "https://thehill.com/homenews/campaign/4922640-hands-off-my-porn-project-2025/",
+            "Created_UTC": 1728487928.0
+        },
+        {
+            "Title": "Third-party candidate Cornel West rejected from ballot in key swing state",
+            "Score": 719,
+            "URL": "https://www.newsweek.com/cornel-west-pennsylvania-third-party-candidate-2024-election-1967808",
+            "Created_UTC": 1728667028.0
+        },
+        {
+            "Title": "GOP scrambles to close fundraising gap in swing states",
+            "Score": 32,
+            "URL": "https://thehill.com/homenews/campaign/4922816-republican-fundraising-gap-battleground-states/",
+            "Created_UTC": 1728470902.0
+        },
+        {
+            "Title": "A week in a swing state taught me a lot about the Maga cult, and gave me hope for Kamala Harris",
+            "Score": 435,
+            "URL": "https://www.theguardian.com/commentisfree/2024/oct/12/a-week-in-a-swing-state-taught-me-a-lot-about-the-maga-cult-and-gave-me-hope-for-kamala-harris-pennsylvania",
+            "Created_UTC": 1728758605.0
+        },
+        {
+            "Title": "Cards Against Humanity offers payouts to new swing-state voters, responding to Musk's PAC",
+            "Score": 1053,
+            "URL": "https://www.nbcnews.com/tech/internet/cards-humanity-offers-payouts-new-swing-state-voters-responding-musks-rcna174957",
+            "Created_UTC": 1728599314.0
+        },
+        {
+            "Title": "Jewish-American Voters in Seven Swing States Widely Prefer Kamala Harris Over Donald Trump, Poll Finds",
+            "Score": 504,
+            "URL": "https://www.haaretz.com/us-news/2024-10-09/ty-article/.premium/poll-jewish-american-voters-in-seven-swing-states-overwhelmingly-prefer-harris-to-trump/00000192-6fe8-dcf6-abd2-6ffec15a0000",
+            "Created_UTC": 1728501198.0
+        },
+        {
+            "Title": "The swing-state counties hit by Hurricane Helene mostly voted for Trump in 2020",
+            "Score": 253,
+            "URL": "https://www.npr.org/2024/10/09/g-s1-27169/hurricane-helene-georgia-north-carolina-trump-2020",
+            "Created_UTC": 1728505865.0
+        },
+        {
+            "Title": "Obama will campaign with Harris in key swing states next week",
+            "Score": 1572,
+            "URL": "https://apnews.com/article/kamala-harris-2024-election-democrats-e7d7fa00961acbfdcb3abd0adbc34010",
+            "Created_UTC": 1728188218.0
+        },
+        {
+            "Title": "Harris embarks on media blitz and tries to edge out Trump in key swing states",
+            "Score": 682,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/06/harris-media-whirlwind-trump-battleground-states",
+            "Created_UTC": 1728258337.0
+        },
+        {
+            "Title": "Progressives Set to Unleash Swing State Blitz for Harris",
+            "Score": 3224,
+            "URL": "https://www.commondreams.org/news/harris-2024",
+            "Created_UTC": 1728130594.0
+        },
+        {
+            "Title": "Barack Obama will tour swing states to campaign for Kamala Harris",
+            "Score": 2333,
+            "URL": "https://www.thetimes.com/world/us-world/article/barack-obama-will-tour-swing-states-to-campaign-for-kamala-harris-g72d8khth",
+            "Created_UTC": 1728043191.0
+        },
+        {
+            "Title": "Musk-founded PAC says it will give $47 for every swing-state voter referral who signs petition",
+            "Score": 467,
+            "URL": "https://thehill.com/homenews/campaign/4919368-elon-musk-petition-swing-states/",
+            "Created_UTC": 1728323822.0
+        },
+        {
+            "Title": "Trump Allies Worked To Keep Jill Stein, Cornel West on Swing State Ballots",
+            "Score": 302,
+            "URL": "https://www.realclearpolitics.com/articles/2024/10/04/trump_allies_worked_to_keep_jill_stein_cornel_west_on_swing_state_ballots_.html",
+            "Created_UTC": 1728061241.0
+        }
+    ]
+}

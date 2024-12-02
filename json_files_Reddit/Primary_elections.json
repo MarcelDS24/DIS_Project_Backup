@@ -1,0 +1,604 @@
+{
+    "Primary elections": [
+        {
+            "Title": "Efforts to elect more Republican women stalled in the 2024 primaries",
+            "Score": 75,
+            "URL": "https://abcnews.go.com/538/efforts-elect-republican-women-stalled-2024-primaries/story?id=114064144",
+            "Created_UTC": 1727459304.0
+        },
+        {
+            "Title": "Colorado\u2019s all-candidate primary and ranked choice general election ballot measure is poised to pass, poll shows",
+            "Score": 151,
+            "URL": "https://coloradosun.com/2024/09/20/proposition-131-polling-colorado-ranked-choice-voting/",
+            "Created_UTC": 1727118642.0
+        },
+        {
+            "Title": "Mailers, canvassing and Facebook \u2014 Wyoming politicos share what won primary elections",
+            "Score": 17,
+            "URL": "https://wyofile.com/mailers-canvassing-and-facebook-wyoming-politicos-share-what-won-primary-elections/",
+            "Created_UTC": 1725898675.0
+        },
+        {
+            "Title": "Sarah McBride just won her primary & is likely to become the first trans member of Congress. It was a landslide election, with McBride winning nearly 80% of the vote.",
+            "Score": 1841,
+            "URL": "https://www.lgbtqnation.com/2024/09/sarah-mcbride-just-won-her-primary-is-likely-to-become-congress-first-trans-member/",
+            "Created_UTC": 1726091507.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Delaware, New Hampshire, and Rhode Island Primaries",
+            "Score": 52,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdjpet/discussion_thread_2024_delaware_new_hampshire_and/",
+            "Created_UTC": 1725979736.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump, Part 5",
+            "Score": 7068,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdz7kl/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726020514.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump, Part 2",
+            "Score": 15605,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdy9k3/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726017426.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump, Part 3",
+            "Score": 2562,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdypmd/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726018918.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump, Part 4",
+            "Score": 1513,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdyytn/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726019757.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump, Part 7 (Post-Debate Thread)",
+            "Score": 2264,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdzwy5/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726022751.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump, Part 6 (Post-Debate Thread)",
+            "Score": 2137,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdzlp3/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726021757.0
+        },
+        {
+            "Title": "Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump",
+            "Score": 4774,
+            "URL": "https://www.reddit.com/r/politics/comments/1fdtubw/discussion_thread_first_presidential_debate_of/",
+            "Created_UTC": 1726004756.0
+        },
+        {
+            "Title": "A meeting at an Eagle River brewery helped put a convicted felon on Alaska\u2019s U.S. House ballot",
+            "Score": 35,
+            "URL": "https://alaskabeacon.com/2024/09/03/a-meeting-at-an-eagle-river-brewery-helped-put-a-convicted-felon-on-alaskas-u-s-house-ballot/",
+            "Created_UTC": 1725669298.0
+        },
+        {
+            "Title": "Board certifies Wyoming\u2019s election results without fanfare after tumultuous primary season",
+            "Score": 51,
+            "URL": "https://wyofile.com/board-certifies-wyomings-election-results-without-fanfare-after-tumultuous-primary-season/",
+            "Created_UTC": 1724884667.0
+        },
+        {
+            "Title": "Alaska Primary Election Results",
+            "Score": 25,
+            "URL": "https://www.nytimes.com/interactive/2024/08/20/us/elections/results-alaska-primary.html",
+            "Created_UTC": 1724269823.0
+        },
+        {
+            "Title": "Democrats are dwindling in Wyoming. A primary election law further reduces their influence",
+            "Score": 178,
+            "URL": "https://apnews.com/article/wyoming-primary-democrats-switching-registration-republicans-5954c50500556a36f6664cc0bce2a6d6",
+            "Created_UTC": 1723961558.0
+        },
+        {
+            "Title": "Wisconsin election deniers Janel Brandtjen and Tim Ramthun lose in GOP primaries",
+            "Score": 2678,
+            "URL": "https://www.jsonline.com/story/news/politics/elections/2024/08/14/election-deniers-brandtjen-ramthun-handed-defeats-in-gop-primaries/74793033007/",
+            "Created_UTC": 1723655632.0
+        },
+        {
+            "Title": "Discussion Thread: Alaska, Florida, and Wyoming Primaries",
+            "Score": 32,
+            "URL": "https://www.reddit.com/r/politics/comments/1ex1t6b/discussion_thread_alaska_florida_and_wyoming/",
+            "Created_UTC": 1724175410.0
+        },
+        {
+            "Title": "Turnout in Wisconsin election tops 26%, highest in 60 years for fall primary in presidential year",
+            "Score": 1616,
+            "URL": "https://apnews.com/article/wisconsin-election-turnout-senate-24ac974d995a286fb79eb9a277e8435e",
+            "Created_UTC": 1723659963.0
+        },
+        {
+            "Title": "Secretary of State calls for retests of voting machines 8 days before Wyoming primary elections",
+            "Score": 108,
+            "URL": "https://wyofile.com/secretary-of-state-calls-for-retests-of-voting-machines-8-days-before-wyoming-primary-elections/",
+            "Created_UTC": 1723510597.0
+        },
+        {
+            "Title": "Discussion Thread: Connecticut, Minnesota, Wisconsin, and Vermont Statewide Primaries; WI-08 Special Election",
+            "Score": 110,
+            "URL": "https://www.reddit.com/r/politics/comments/1erfvb2/discussion_thread_connecticut_minnesota_wisconsin/",
+            "Created_UTC": 1723574983.0
+        },
+        {
+            "Title": "In Republican Primary, Bigot Loses to Election Denier: The Missouri Secretary of State primary is a lesson in the modern GOP.",
+            "Score": 223,
+            "URL": "https://www.motherjones.com/politics/2024/08/valentina-gomez-missouri-bigot-election-denier-hoskins/",
+            "Created_UTC": 1723136258.0
+        },
+        {
+            "Title": "Arizona Republican who fought Trump\u2019s false election claims loses primary",
+            "Score": 205,
+            "URL": "https://www.pbs.org/newshour/show/arizona-republican-who-fought-trumps-false-election-claims-loses-primary",
+            "Created_UTC": 1723126730.0
+        },
+        {
+            "Title": "Trump criticizes Gov. Lee, calls him a \u2018RINO\u2019 after primary elections",
+            "Score": 204,
+            "URL": "https://www.wkrn.com/news/tennessee-news/trump-criticizes-gov-lee-calls-him-a-rino-after-primary-elections/",
+            "Created_UTC": 1722749253.0
+        },
+        {
+            "Title": "I\u2019m Astead Herndon, and I\u2019m the host of \u201cThe Run-Up\u201d podcast and a national politics reporter for The New York Times. I\u2019ve chronicled this presidential election from the beginning \u2013 and I\u2019m heading to the Democratic National Convention in Chicago. AMA!",
+            "Score": 48,
+            "URL": "https://www.reddit.com/r/politics/comments/1eszuku/im_astead_herndon_and_im_the_host_of_the_runup/",
+            "Created_UTC": 1723739953.0
+        },
+        {
+            "Title": "Early in-person voting locations in rural Alaska turn away primary voters amid delays in the delivery of election materials",
+            "Score": 74,
+            "URL": "https://www.adn.com/politics/2024/08/07/early-in-person-voting-locations-in-rural-alaska-turn-away-primary-voters-amid-delays-in-the-delivery-of-election-materials/",
+            "Created_UTC": 1723084812.0
+        },
+        {
+            "Title": "Discussion Thread: Hawaii Statewide Primary",
+            "Score": 34,
+            "URL": "https://www.reddit.com/r/politics/comments/1eoxoji/discussion_thread_hawaii_statewide_primary/",
+            "Created_UTC": 1723308762.0
+        },
+        {
+            "Title": "Open primary, ranked choice voting measure earns enough signatures, election reformers say",
+            "Score": 332,
+            "URL": "https://coloradonewsline.com/briefs/ranked-choice-voting-signatures-election/",
+            "Created_UTC": 1722699660.0
+        },
+        {
+            "Title": "Across Arizona, Republican officials who defended election system lose primaries",
+            "Score": 443,
+            "URL": "https://www.votebeat.org/arizona/2024/07/31/republicans-defending-elections-lose-arizona-primary/",
+            "Created_UTC": 1722521933.0
+        },
+        {
+            "Title": "Arizona local official who defended elections against GOP attacks is ousted in primary",
+            "Score": 401,
+            "URL": "https://www.npr.org/2024/07/31/nx-s1-5058464/stephen-richer-maricopa-county-elections-arizona-primary",
+            "Created_UTC": 1722428936.0
+        },
+        {
+            "Title": "Discussion Thread: Tennessee Statewide Primaries and School Board Elections",
+            "Score": 99,
+            "URL": "https://www.reddit.com/r/politics/comments/1ehhoey/discussion_thread_tennessee_statewide_primaries/",
+            "Created_UTC": 1722521483.0
+        },
+        {
+            "Title": "Discussion Thread: Statewide Primaries in Kansas, Michigan, Missouri, and Washington",
+            "Score": 166,
+            "URL": "https://www.reddit.com/r/politics/comments/1elng1h/discussion_thread_statewide_primaries_in_kansas/",
+            "Created_UTC": 1722964552.0
+        },
+        {
+            "Title": "Election deniers win key races in Arizona's GOP primaries, raising alarms with voting groups",
+            "Score": 289,
+            "URL": "https://www.cbsnews.com/news/arizona-election-deniers-republican-primaries/",
+            "Created_UTC": 1722526344.0
+        },
+        {
+            "Title": "Republicans with history of election denial battle in Arizona primaries",
+            "Score": 154,
+            "URL": "https://www.theguardian.com/us-news/article/2024/jul/30/arizona-primaries-republican-election-deniers",
+            "Created_UTC": 1722337113.0
+        },
+        {
+            "Title": "Discussion Thread: Arizona Statewide Primaries and Miscellaneous, Minor Local Elections in California, Oregon, and South Carolina",
+            "Score": 110,
+            "URL": "https://www.reddit.com/r/politics/comments/1efun5i/discussion_thread_arizona_statewide_primaries_and/",
+            "Created_UTC": 1722349373.0
+        },
+        {
+            "Title": "Wisconsin Republicans Try to Amend Constitution During A Primary Election",
+            "Score": 79,
+            "URL": "https://wisconsinwatch.org/2024/06/wisconsin-republican-constitutional-amendments-election-ballot-legislature-evers/",
+            "Created_UTC": 1721254315.0
+        },
+        {
+            "Title": "In 2022, Alaska became the first state with open, ranked-choice primaries. I've made lots of documentaries about American elections, but after 2016, I didn't want to do that anymore. But the Alaska story drew me back and I came to believe RCV matters. I'm AJ Schnack, AMA!",
+            "Score": 197,
+            "URL": "https://www.reddit.com/r/politics/comments/1e0vp87/in_2022_alaska_became_the_first_state_with_open/",
+            "Created_UTC": 1720721811.0
+        },
+        {
+            "Title": "In 2022, Alaska became the first state with open, ranked-choice primaries. I've made lots of documentaries about American elections, but after 2016, I didn't want to do that anymore. But the Alaska story drew me back and I came to believe RCV matters. I'm AJ Schnack, AMA!",
+            "Score": 56,
+            "URL": "https://www.reddit.com/r/politics/comments/1e0vlwd/in_2022_alaska_became_the_first_state_with_open/",
+            "Created_UTC": 1720721585.0
+        },
+        {
+            "Title": "Discussion Thread: Colorado, New York, and Utah Statewide Primaries; CO-4 Special General Election; SC Primary Runoff",
+            "Score": 115,
+            "URL": "https://www.reddit.com/r/politics/comments/1do6lhm/discussion_thread_colorado_new_york_and_utah/",
+            "Created_UTC": 1719323716.0
+        },
+        {
+            "Title": "With re-election hopes fading, Bob Good cries election fraud - The far-right congressman from Virginia is trailing by a thin margin in his primary race against a Trump-backed opponent. So he\u2019s using a trick Trump taught him: crying about nonexistent election fraud.",
+            "Score": 255,
+            "URL": "https://www.msnbc.com/the-reidout/reidout-blog/bob-good-virginia-trump-election-fraud-rcna158633",
+            "Created_UTC": 1719353053.0
+        },
+        {
+            "Title": "Discussion Thread: Statewide Primary Elections in Georgia, Oklahoma, and Virginia, Plus Assorted Local Elections in Alabama, Florida, and South Carolina",
+            "Score": 110,
+            "URL": "https://www.reddit.com/r/politics/comments/1disiok/discussion_thread_statewide_primary_elections_in/",
+            "Created_UTC": 1718722167.0
+        },
+        {
+            "Title": "Discussion Thread: Assorted Elections on June 11, 2024 (Maine, Nevada, South Carolina Statewide Primaries; North Dakota Statewide Primaries, Special State Legislative Primaries, and Bismarck General ELection; Ohio US-6 Special Congressional Election; Delaware City Local Special Election)",
+            "Score": 73,
+            "URL": "https://www.reddit.com/r/politics/comments/1ddh3s1/discussion_thread_assorted_elections_on_june_11/",
+            "Created_UTC": 1718120141.0
+        },
+        {
+            "Title": "After 2022 errors, primary election will be Pinal County\u2019s big test",
+            "Score": 21,
+            "URL": "https://azmirror.com/2024/06/10/after-2022-errors-primary-election-will-be-pinal-countys-big-test/",
+            "Created_UTC": 1718060712.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Puerto Rico Primary Elections",
+            "Score": 88,
+            "URL": "https://www.reddit.com/r/politics/comments/1d6fk7n/discussion_thread_2024_puerto_rico_primary/",
+            "Created_UTC": 1717341402.0
+        },
+        {
+            "Title": "Republican who refused to certify Georgia primary a member of election denialist group",
+            "Score": 408,
+            "URL": "https://www.theguardian.com/us-news/article/2024/jun/04/republican-julie-adams-georgia-election-integrity-network",
+            "Created_UTC": 1717525334.0
+        },
+        {
+            "Title": "Puerto Rico's primary elections are on Sunday: which races to watch?",
+            "Score": 67,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/05/30/puerto-rico-primary-sunday-what-to-watch-in-race-for-governor/73906020007/",
+            "Created_UTC": 1717334789.0
+        },
+        {
+            "Title": "Voters have more legislative choices in the upcoming primary than last election",
+            "Score": 18,
+            "URL": "https://wyofile.com/voters-have-more-legislative-choices-in-the-upcoming-primary-than-last-election/",
+            "Created_UTC": 1717517779.0
+        },
+        {
+            "Title": "Republican member of metro Atlanta elections board won\u2019t certify primary results",
+            "Score": 1673,
+            "URL": "https://www.ajc.com/news/atlanta-news/republican-member-of-fulton-elections-board-wont-certify-primary-results/IDYT7CZVMZAJXHDAADS7G6JNT4/",
+            "Created_UTC": 1717032158.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Texas Primary Runoff Elections",
+            "Score": 85,
+            "URL": "https://www.reddit.com/r/politics/comments/1d2i50d/discussion_thread_2024_texas_primary_runoff/",
+            "Created_UTC": 1716898898.0
+        },
+        {
+            "Title": "We\u2019re the League of Women Voters! We're the team behind VOTE411.org, and we filed a lawsuit to stop illegal AI-generated robocalls to voters. AUA about election mis- and disinformation!",
+            "Score": 270,
+            "URL": "https://www.reddit.com/r/politics/comments/1daejhk/were_the_league_of_women_voters_were_the_team/",
+            "Created_UTC": 1717776526.0
+        },
+        {
+            "Title": "Discussion Thread: Assorted Elections in California, Colorado, D.C., Iowa, Montana, New Jersey, New Mexico, South Carolina, and South Dakota on June 4th, 2024",
+            "Score": 119,
+            "URL": "https://www.reddit.com/r/politics/comments/1d83jzr/discussion_thread_assorted_elections_in/",
+            "Created_UTC": 1717523854.0
+        },
+        {
+            "Title": "Surprise primary upset leaves Puerto Rico governor out of re-election bid | Gov. Pedro Pierluisi of the New Progressive Party, which favors statehood, lost to Rep. Jenniffer Gonz\u00e1lez, Puerto Rico's nonvoting member of Congress.",
+            "Score": 81,
+            "URL": "https://www.nbcnews.com/news/latino/puerto-rico-gov-pedro-pierluisi-loses-re-election-primary-gonzalez-rcna155128",
+            "Created_UTC": 1717440908.0
+        },
+        {
+            "Title": "What Idaho\u2019s Republican Primary Tells Us About America\u2019s Culture Wars | The heavily Republican state booted 15 incumbents across the party\u2019s ideological spectrum. While the election led to net gains for hard-line members of the right, it also underscores how divided Idaho\u2019s party remains",
+            "Score": 54,
+            "URL": "https://www.propublica.org/article/idaho-republican-primary-election-culture-wars",
+            "Created_UTC": 1717537995.0
+        },
+        {
+            "Title": "2024 Idaho primary election results: 15 GOP incumbent legislators lose re-election campaigns",
+            "Score": 235,
+            "URL": "https://idahocapitalsun.com/2024/05/21/2024-idaho-primary-election-results-several-gop-incumbent-legislators-trail-in-early-returns/",
+            "Created_UTC": 1716402897.0
+        },
+        {
+            "Title": "Election Night Reporting-Kentucky Primary",
+            "Score": 14,
+            "URL": "https://vrsws.sos.ky.gov/liveresults",
+            "Created_UTC": 1716391874.0
+        },
+        {
+            "Title": "I\u2019m Greg Giroux, a Bloomberg Government journalist covering the 2024 elections for the US House and Senate. Things are heating up! Ask me anything.",
+            "Score": 72,
+            "URL": "https://www.reddit.com/r/politics/comments/1d3g4e6/im_greg_giroux_a_bloomberg_government_journalist/",
+            "Created_UTC": 1716999496.0
+        },
+        {
+            "Title": "Election deniers advance in every state to hold congressional primaries so far: Report",
+            "Score": 96,
+            "URL": "https://thehill.com/homenews/campaign/4677737-election-deniers-advance-congressional-primaries-2024/",
+            "Created_UTC": 1716324885.0
+        },
+        {
+            "Title": "Discussion Thread: Assorted Special, Primary, Recall, and General Elections on May 21st, 2024 in California, Florida, Georgia, Idaho, Kentucky, New York, and Oregon",
+            "Score": 95,
+            "URL": "https://www.reddit.com/r/politics/comments/1cxiza8/discussion_thread_assorted_special_primary_recall/",
+            "Created_UTC": 1716325992.0
+        },
+        {
+            "Title": "Jan. 6 rioter who pushed through tear gas inside Capitol advances to runoff House GOP primary election in Georgia",
+            "Score": 309,
+            "URL": "https://www.nbcnews.com/politics/2024-election/chuck-hand-georgia-republican-house-primary-rcna152826",
+            "Created_UTC": 1716343815.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Primary Elections in Maryland, Nebraska, and West Virginia",
+            "Score": 108,
+            "URL": "https://www.reddit.com/r/politics/comments/1crvqzi/discussion_thread_2024_primary_elections_in/",
+            "Created_UTC": 1715702534.0
+        },
+        {
+            "Title": "The Nebraska GOP is rejecting all Republican congressional incumbents in Tuesday\u2019s primary election",
+            "Score": 2111,
+            "URL": "https://apnews.com/article/nebraska-republican-party-primary-522edca6a334ef8200014701bcb172f1",
+            "Created_UTC": 1715682421.0
+        },
+        {
+            "Title": "Idaho Democratic Party doubles legislative candidate numbers in the face of GOP supermajority | There are 87 Democratic legislative candidates running in the May primary, a drastic change in comparison to 45 in 2022 general election",
+            "Score": 348,
+            "URL": "https://idahocapitalsun.com/2024/05/06/idaho-democratic-party-doubles-legislative-candidate-numbers-in-the-face-of-gop-supermajority/",
+            "Created_UTC": 1715006441.0
+        },
+        {
+            "Title": "Discussion Thread: Biden Gives Remarks at Holocaust Remembrance Ceremony",
+            "Score": 282,
+            "URL": "https://www.reddit.com/r/politics/comments/1cmcwio/discussion_thread_biden_gives_remarks_at/",
+            "Created_UTC": 1715091195.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Pennsylvania Primary Elections",
+            "Score": 106,
+            "URL": "https://www.reddit.com/r/politics/comments/1cb47ku/discussion_thread_2024_pennsylvania_primary/",
+            "Created_UTC": 1713877723.0
+        },
+        {
+            "Title": "Montana counties training election judges ahead of June primary",
+            "Score": 56,
+            "URL": "https://www.ktvh.com/news/montana-counties-training-election-judges-ahead-of-june-primary",
+            "Created_UTC": 1714141858.0
+        },
+        {
+            "Title": "Pennsylvania Presidential Primary Election 2024: Live Results",
+            "Score": 9,
+            "URL": "https://www.nbcnews.com/politics/2024-primary-elections/pennsylvania-president-results",
+            "Created_UTC": 1713987330.0
+        },
+        {
+            "Title": "GOP lawmaker faces calls to resign, drops out of primary election after fraud allegations",
+            "Score": 270,
+            "URL": "https://www.azcentral.com/story/news/politics/legislature/2024/04/19/austin-smith-calls-to-resign-fraud-allegations/73385322007/",
+            "Created_UTC": 1713634473.0
+        },
+        {
+            "Title": "Delegates have an outsized role in picking Utah\u2019s elected leaders. Here\u2019s how. In Utah, a handful of delegates have the power to decide which candidates end up on voter\u2019s primary ballot \u2014 and occasionally who will represent Utahns in the Legislature.",
+            "Score": 55,
+            "URL": "https://www.sltrib.com/news/politics/2024/04/19/delegates-have-an-outsized-role/",
+            "Created_UTC": 1713536070.0
+        },
+        {
+            "Title": "Fascist State: There are degrees of political insanity. After its recent Republican primary elections, Texas approaches a psychotic break.",
+            "Score": 240,
+            "URL": "https://prospect.org/politics/2024-04-10-fascist-state-texas/",
+            "Created_UTC": 1712781410.0
+        },
+        {
+            "Title": "Discussion Thread: Assorted Elections on April 2nd, 2024 | Special, Recall, and Primary, and General Elections in AK, AL, AR, CT, DE, MO, NY, OK, RI, SC, UT, and WI",
+            "Score": 77,
+            "URL": "https://www.reddit.com/r/politics/comments/1bu4xuf/discussion_thread_assorted_elections_on_april_2nd/",
+            "Created_UTC": 1712079772.0
+        },
+        {
+            "Title": "Discussion Thread: Assorted Primary and Special Elections on March 19th, 2024 in Illinois, Ohio, California, Kansas, Arizona, and Florida",
+            "Score": 129,
+            "URL": "https://www.reddit.com/r/politics/comments/1bimhxq/discussion_thread_assorted_primary_and_special/",
+            "Created_UTC": 1710860928.0
+        },
+        {
+            "Title": "Ohio primary will set up fall election that could flip control of state supreme court",
+            "Score": 257,
+            "URL": "https://abcnews.go.com/Politics/wireStory/ohio-primary-set-fall-election-flip-partisan-control-108208523",
+            "Created_UTC": 1710724914.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Presidential Primaries in Georgia, Washington State, Mississippi, Plus Democrats Abroad and Hawaii GOP Caucus",
+            "Score": 128,
+            "URL": "https://www.reddit.com/r/politics/comments/1bd27xz/discussion_thread_2024_presidential_primaries_in/",
+            "Created_UTC": 1710262623.0
+        },
+        {
+            "Title": "Trump claims US elections are \u2018third world\u2019 despite sweeping Super Tuesday primaries",
+            "Score": 25,
+            "URL": "https://www.independent.co.uk/news/world/americas/us-politics/trump-super-tuesday-speech-election-b2507697.html",
+            "Created_UTC": 1709699634.0
+        },
+        {
+            "Title": "March 2024 National Poll: Trump 45%, Biden 45%Haley Primary Voters Break for Biden over Trump in General Election - Emerson Polling",
+            "Score": 169,
+            "URL": "https://emersoncollegepolling.com/march-2024-national-poll-trump-45-biden-45haley-primary-voters-break-for-biden-over-trump-in-general-election/",
+            "Created_UTC": 1709833220.0
+        },
+        {
+            "Title": "Discussion Thread: Super Tuesday, 2024 (AK, AL, AR, AS, CA, CO, IA, ME, MA, MI, NC, OK, TN, TX, UT, VT, and VA Presidential Primaries and Cacuses)",
+            "Score": 362,
+            "URL": "https://www.reddit.com/r/politics/comments/1b75ytt/discussion_thread_super_tuesday_2024_ak_al_ar_as/",
+            "Created_UTC": 1709647472.0
+        },
+        {
+            "Title": "Have questions about the March 5 primary elections in Los Angeles? LAist is here to answer, so ask us anything (AKA AMA)!",
+            "Score": 59,
+            "URL": "https://www.reddit.com/r/politics/comments/1b1lk3o/have_questions_about_the_march_5_primary/",
+            "Created_UTC": 1709064472.0
+        },
+        {
+            "Title": "Six out of 10 South Carolina Republican primary voters think Biden wasn\u2019t legitimately elected",
+            "Score": 1308,
+            "URL": "https://www.theguardian.com/us-news/2024/feb/25/south-carolina-republican-primary-voters-biden-trump-election-denialism",
+            "Created_UTC": 1708890587.0
+        },
+        {
+            "Title": "Megathread: Supreme Court restores Trump to ballot, rejecting state attempts to ban him over Capitol attack",
+            "Score": 17552,
+            "URL": "https://www.reddit.com/r/politics/comments/1b6d89n/megathread_supreme_court_restores_trump_to_ballot/",
+            "Created_UTC": 1709565009.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Democratic and Republican Presidential Primaries in Michigan",
+            "Score": 199,
+            "URL": "https://www.reddit.com/r/politics/comments/1b1min1/discussion_thread_2024_democratic_and_republican/",
+            "Created_UTC": 1709066768.0
+        },
+        {
+            "Title": "We\u2019re Michael Bender and Maya King, reporters for The New York Times covering the 2024 presidential election. Ask us Anything.",
+            "Score": 36,
+            "URL": "https://www.reddit.com/r/politics/comments/1b3xwq0/were_michael_bender_and_maya_king_reporters_for/",
+            "Created_UTC": 1709309135.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Republican Presidential Primary in South Carolina",
+            "Score": 158,
+            "URL": "https://www.reddit.com/r/politics/comments/1az3en5/discussion_thread_2024_republican_presidential/",
+            "Created_UTC": 1708803878.0
+        },
+        {
+            "Title": "Here\u2019s how to vote in Texas\u2019 March 5 primary elections The deadline to register to vote was Feb. 5. The last day to apply to vote by mail is Feb. 23. Early voting runs from Feb. 20 to March 1.",
+            "Score": 127,
+            "URL": "https://www.texastribune.org/2024/01/15/texas-voting-primary-2024/",
+            "Created_UTC": 1708437765.0
+        },
+        {
+            "Title": "I\u2019m a Reuters reporter in South Carolina for the Republican primary \u2013 ask me anything!",
+            "Score": 88,
+            "URL": "https://www.reddit.com/r/politics/comments/1ay8p98/im_a_reuters_reporter_in_south_carolina_for_the/",
+            "Created_UTC": 1708714971.0
+        },
+        {
+            "Title": "Discussion Thread: Third California US Senate Debate of 2024",
+            "Score": 70,
+            "URL": "https://www.reddit.com/r/politics/comments/1avxgi6/discussion_thread_third_california_us_senate/",
+            "Created_UTC": 1708474248.0
+        },
+        {
+            "Title": "Wisconsin Supreme Court orders election officials to put Phillips on presidential primary ballot",
+            "Score": 25,
+            "URL": "https://apnews.com/article/election-2024-dean-phillips-wisconsin-primary-ballot-a899f4ee06b06406c93c3896362aaf05?adobe_mc=TS%3D1707219235%7CMCMID%3D46475362808601461657559699993008760625%7CMCORGID%3DCB68E4BA55144CAA0A4C98A5%40AdobeOrg&wsj_native_webview=android&ace_environment=androidphone%2Cwebview&ace_config=%7B%22wsj%22%3A%7B%22djcmp%22%3A%7B%22propertyHref%22%3A%22https%3A%2F%2Fwsj.android.app%22%7D%7D%7D",
+            "Created_UTC": 1707219517.0
+        },
+        {
+            "Title": "Nevada Republicans\u2019 Caucus Adds Chaos and Confusion to the State\u2019s Presidential Primary | While legal, the party\u2019s decision to host a competing contest to the Feb. 6 primary election has angered GOP voters and provided fertile ground for misinformation to take hold",
+            "Score": 272,
+            "URL": "https://www.propublica.org/article/nevada-republicans-caucus-chaos-confusion-presidential-primary",
+            "Created_UTC": 1707141213.0
+        },
+        {
+            "Title": "Discussion Thread: US Supreme Court Hears Oral Argument in Case on Ballot Access for Former President Trump",
+            "Score": 9093,
+            "URL": "https://www.reddit.com/r/politics/comments/1alwykc/discussion_thread_us_supreme_court_hears_oral/",
+            "Created_UTC": 1707402562.0
+        },
+        {
+            "Title": "We\u2019re Russell Berman and David Graham, staff writers at The Atlantic. Ask us anything about what a second Donald Trump presidency might look like.",
+            "Score": 66,
+            "URL": "https://www.reddit.com/r/politics/comments/1am29ty/were_russell_berman_and_david_graham_staff/",
+            "Created_UTC": 1707416326.0
+        },
+        {
+            "Title": "Illinois election officials to weigh recommendation to remove Trump's name from March primary ballot",
+            "Score": 593,
+            "URL": "https://apnews.com/article/trump-election-illinois-insurrection-e6c8bf05a1bb99eea7afe6531383b43e",
+            "Created_UTC": 1706564369.0
+        },
+        {
+            "Title": "Discussion Thread: South Carolina 2024 Democratic Presidential Primary",
+            "Score": 136,
+            "URL": "https://www.reddit.com/r/politics/comments/1ahzrnh/discussion_thread_south_carolina_2024_democratic/",
+            "Created_UTC": 1706977272.0
+        },
+        {
+            "Title": "I'm Deric Houston, and I'm running against Marjorie Taylor Greene for Georgia's 14th Congressional House seat! - Ask Me Anything.",
+            "Score": 1190,
+            "URL": "https://www.reddit.com/r/politics/comments/1ah70bp/im_deric_houston_and_im_running_against_marjorie/",
+            "Created_UTC": 1706889589.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 New Hampshire Presidential Primary",
+            "Score": 251,
+            "URL": "https://www.reddit.com/r/politics/comments/19dg6hh/discussion_thread_2024_new_hampshire_presidential/",
+            "Created_UTC": 1705984738.0
+        },
+        {
+            "Title": "New election signature questions include names of dead people on presidential primary papers",
+            "Score": 151,
+            "URL": "https://turnto10.com/politics/new-election-signature-questions-names-dead-people-republican-presidential-primary-papers-vivek-ramaswamy-invalidated-warwick-coventry-rhode-island",
+            "Created_UTC": 1704989292.0
+        },
+        {
+            "Title": "We\u2019re Washington Post reporters on the ground in Iowa and New Hampshire covering the start of the 2024 election season. Ask us anything!",
+            "Score": 166,
+            "URL": "https://www.reddit.com/r/politics/comments/1996hi4/were_washington_post_reporters_on_the_ground_in/",
+            "Created_UTC": 1705522547.0
+        },
+        {
+            "Title": "Discussion Thread: 2024 Republican Iowa Caucus",
+            "Score": 300,
+            "URL": "https://www.reddit.com/r/politics/comments/197cx1l/discussion_thread_2024_republican_iowa_caucus/",
+            "Created_UTC": 1705336326.0
+        },
+        {
+            "Title": "Colorado Secretary of State certifies 2024 presidential primary election ballot, Trump to appear on ballot",
+            "Score": 41,
+            "URL": "https://www.cbsnews.com/colorado/news/colorado-secretary-state-certifies-2024-presidential-primary-election-ballot-trump-ballot/",
+            "Created_UTC": 1704498261.0
+        },
+        {
+            "Title": "Discussion Thread: Fifth Republican 2024 Presidential Debate",
+            "Score": 168,
+            "URL": "https://www.reddit.com/r/politics/comments/193nkuy/discussion_thread_fifth_republican_2024/",
+            "Created_UTC": 1704931745.0
+        },
+        {
+            "Title": "Maine's top election official rules Trump ineligible for 2024 primary ballot",
+            "Score": 1934,
+            "URL": "https://www.nbcnews.com/politics/2024-election/maines-top-election-official-rules-trump-ineligible-2024-primary-ballo-rcna131375",
+            "Created_UTC": 1703808667.0
+        },
+        {
+            "Title": "Megathread: Colorado Supreme Court Rules Trump is Ineligible to Appear on Ballot Due to 14th Amendment; Appeal Likely to Reach US Supreme Court",
+            "Score": 44535,
+            "URL": "https://www.reddit.com/r/politics/comments/18mfyba/megathread_colorado_supreme_court_rules_trump_is/",
+            "Created_UTC": 1703028926.0
+        }
+    ]
+}

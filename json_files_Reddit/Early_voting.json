@@ -1,0 +1,604 @@
+{
+    "Early voting": [
+        {
+            "Title": "New report shows majority of Latinos voted for Harris, disputing early election polls",
+            "Score": 2517,
+            "URL": "https://www.kunr.org/local-stories/2024-11-14/new-report-shows-majority-of-latinos-voted-for-harris-disputing-early-election-polls",
+            "Created_UTC": 1731942950.0
+        },
+        {
+            "Title": "Ohio sets early in-person voting record",
+            "Score": 132,
+            "URL": "https://thehill.com/homenews/4974680-ohio-sets-early-in-person-voting-record/",
+            "Created_UTC": 1730862431.0
+        },
+        {
+            "Title": "Oklahoma sets records for in-person early voting and voter registration",
+            "Score": 860,
+            "URL": "https://oklahomavoice.com/2024/11/04/oklahoma-sets-records-for-in-person-early-voting-and-voter-registration/",
+            "Created_UTC": 1730777093.0
+        },
+        {
+            "Title": "More than 740,000 voted in early voting in CT",
+            "Score": 177,
+            "URL": "https://www.nbcconnecticut.com/decision-2024/more-than-740000-voted-in-early-voting-in-ct/3425023/?amp=1",
+            "Created_UTC": 1730735258.0
+        },
+        {
+            "Title": "More Than 80 Million Voters Cast Ballots Before Election Day. See the Early Vote Breakdown.",
+            "Score": 24,
+            "URL": "https://www.nytimes.com/interactive/2024/us/elections/early-vote-tracker-2024.html",
+            "Created_UTC": 1731026865.0
+        },
+        {
+            "Title": "Harris campaign feels \u2018good\u2019 about early vote in Pennsylvania, other battlegrounds",
+            "Score": 2481,
+            "URL": "https://thehill.com/homenews/campaign/4972805-harris-campaign-early-ballots/",
+            "Created_UTC": 1730830006.0
+        },
+        {
+            "Title": "In-person early voting surpasses 2020 total",
+            "Score": 828,
+            "URL": "https://www.newsweek.com/person-early-voting-surpasses-2020-total-1979064",
+            "Created_UTC": 1730563460.0
+        },
+        {
+            "Title": "Don't be fooled by early US vote counts: They might be misleading",
+            "Score": 509,
+            "URL": "https://www.reuters.com/world/us/dont-be-fooled-by-early-us-vote-counts-they-might-be-misleading-2024-11-05/",
+            "Created_UTC": 1730843744.0
+        },
+        {
+            "Title": "2024 election: Milwaukee early voting lines continue Saturday",
+            "Score": 226,
+            "URL": "https://www.fox6now.com/news/forward-latino-early-voting-breakfast-milwaukee",
+            "Created_UTC": 1730607125.0
+        },
+        {
+            "Title": "Clerks share numbers for \u2018unprecedented\u2019 early voting turnout",
+            "Score": 355,
+            "URL": "https://www.wilx.com/2024/11/02/clerks-share-numbers-unprecedented-early-voting-turnout/",
+            "Created_UTC": 1730581378.0
+        },
+        {
+            "Title": "Georgia surpasses 4 million votes on last day of early voting",
+            "Score": 7174,
+            "URL": "https://thehill.com/homenews/state-watch/4967413-georgia-surpasses-4-million-votes/",
+            "Created_UTC": 1730564742.0
+        },
+        {
+            "Title": "Early in-person voting in North Carolina exceeds 2020 total",
+            "Score": 977,
+            "URL": "https://apnews.com/article/north-carolina-election-early-voting-1e9e033f96dec01eec4c56deeed27392?utm_source=copy&utm_medium=share",
+            "Created_UTC": 1730560042.0
+        },
+        {
+            "Title": "Georgia Voters Break 4 Million Votes During Early Voting Period",
+            "Score": 465,
+            "URL": "https://sos.ga.gov/news/georgia-voters-break-4-million-votes-during-early-voting-period",
+            "Created_UTC": 1730564656.0
+        },
+        {
+            "Title": "US presidential election updates: Poll shows Harris ahead in early voting as Trump jokes about reporters being shot ",
+            "Score": 1118,
+            "URL": "https://www.theguardian.com/us-news/2024/nov/04/us-presidential-election-trump-harris-updates",
+            "Created_UTC": 1730724854.0
+        },
+        {
+            "Title": "New York Board of Elections releases unofficial early vote tallies",
+            "Score": 63,
+            "URL": "https://www.news10.com/news/new-york-board-of-elections-releases-unofficial-early-vote-tallies/",
+            "Created_UTC": 1730741260.0
+        },
+        {
+            "Title": "North Carolina sees turnout record with more than 4.2M ballots cast at early in-person voting sites",
+            "Score": 10718,
+            "URL": "https://apnews.com/article/ae9e422b7ad70e981b83bf9b726296ed",
+            "Created_UTC": 1730668512.0
+        },
+        {
+            "Title": "Michigan voters flock to the poles for final weekend of early voting",
+            "Score": 368,
+            "URL": "https://www.cbsnews.com/detroit/news/michigan-voters-final-weekend-early-voting/",
+            "Created_UTC": 1730604645.0
+        },
+        {
+            "Title": "Women outpacing men in early voting, boosting Harris campaign's optimism",
+            "Score": 1574,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/11/01/women-outpacing-men-early-voting-optimism-harris/75990004007/",
+            "Created_UTC": 1730522210.0
+        },
+        {
+            "Title": "Team Trump Is Losing Their Minds Over Stunning Early Voting Numbers",
+            "Score": 14768,
+            "URL": "https://newrepublic.com/post/187791/donald-trump-early-voting-numbers-pennsylvania",
+            "Created_UTC": 1730472270.0
+        },
+        {
+            "Title": "Early in-person voting in North Carolina exceeds 2020 total",
+            "Score": 756,
+            "URL": "https://apnews.com/article/north-carolina-election-early-voting-1e9e033f96dec01eec4c56deeed27392",
+            "Created_UTC": 1730500838.0
+        },
+        {
+            "Title": "What early voting data signals about this year's election",
+            "Score": 51,
+            "URL": "https://www.pbs.org/newshour/show/what-early-voting-data-signals-about-this-years-election",
+            "Created_UTC": 1730517083.0
+        },
+        {
+            "Title": "What are the surprising takeaways from early voting? Analyst explains why Republicans should worry.",
+            "Score": 195,
+            "URL": "https://www.msnbc.com/weekends-with-alex-witt/watch/what-are-the-surprising-takeaways-from-early-voting-analyst-explains-why-republicans-should-worry-223380549986",
+            "Created_UTC": 1730606915.0
+        },
+        {
+            "Title": "Early voting data shows flood of new Democratic women and Republican men in these swing state.",
+            "Score": 406,
+            "URL": "https://fortune.com/2024/11/02/early-voting-data-new-democratic-women-republican-men-donald-trump-kamala-harris/",
+            "Created_UTC": 1730615435.0
+        },
+        {
+            "Title": "Women dominate early voting as Donald Trump supporters get nervous",
+            "Score": 21580,
+            "URL": "https://www.newsweek.com/women-dominate-early-voting-trump-supporters-nervous-1977757",
+            "Created_UTC": 1730374237.0
+        },
+        {
+            "Title": "University of Wisconsin-Madison students wait in long lines to vote early",
+            "Score": 1762,
+            "URL": "https://kyma.com/decision-2024/2024/11/02/university-of-wisconsin-madison-students-wait-in-long-lines-to-vote-early/",
+            "Created_UTC": 1730583961.0
+        },
+        {
+            "Title": "Donald Trump Gets Bad News From Two Early Voting Trends in Pennsylvania",
+            "Score": 139,
+            "URL": "https://www.newsweek.com/donald-trump-bad-news-pennsylvania-early-voting-harris-1978491",
+            "Created_UTC": 1730490260.0
+        },
+        {
+            "Title": "\u2018Let\u2019s Go Brandon\u2019 hat sparks physical altercation at early voting site in Orangeburg, SC",
+            "Score": 123,
+            "URL": "https://www.thestate.com/news/politics-government/article294901794.html",
+            "Created_UTC": 1730529478.0
+        },
+        {
+            "Title": "Man caught on video removing, ripping Harris-Walz signs outside Raleigh early voting site",
+            "Score": 21316,
+            "URL": "https://www.wral.com/story/man-caught-on-video-removing-ripping-harris-walz-signs-outside-raleigh-early-voting-site/21699844/",
+            "Created_UTC": 1730403052.0
+        },
+        {
+            "Title": "Susan B. Anthony\u2019s Home Is Now an Early Voting Site \u2014 and Women Are Showing Their Appreciation at Her Grave",
+            "Score": 2174,
+            "URL": "https://people.com/susan-b-anthony-home-is-now-early-voting-site-8738630",
+            "Created_UTC": 1730558277.0
+        },
+        {
+            "Title": "Harris may have big early voting lead despite Trump\u2019s claims GOP is winning, polling suggests",
+            "Score": 1338,
+            "URL": "https://www.the-independent.com/news/world/americas/us-politics/trump-harris-polls-election-early-voting-b2639582.html",
+            "Created_UTC": 1730470430.0
+        },
+        {
+            "Title": "Trump slams early voting at Michigan rally to mark start of early voting",
+            "Score": 1655,
+            "URL": "https://www.washingtonpost.com/politics/2024/10/26/trump-early-voting-criticize/",
+            "Created_UTC": 1730026915.0
+        },
+        {
+            "Title": "Tens of millions of early votes have been cast. What could it mean for Election Day?",
+            "Score": 82,
+            "URL": "https://abcnews.go.com/Politics/tens-millions-early-votes-cast-election-day/story?id=115272249",
+            "Created_UTC": 1730640566.0
+        },
+        {
+            "Title": "Trump Supporter Arrested After Brandishing Machete at Early-Voting Site",
+            "Score": 412,
+            "URL": "https://www.nytimes.com/2024/10/30/us/politics/florida-trump-supporter-arrested-machete.html",
+            "Created_UTC": 1730337032.0
+        },
+        {
+            "Title": "Georgia sees record number of Black voters cast ballots during early voting period",
+            "Score": 10184,
+            "URL": "https://theatlantavoice.com/georgia-black-voters-record-turnout/",
+            "Created_UTC": 1730338033.0
+        },
+        {
+            "Title": "Florida teen arrested after brandishing machete outside early voting location, police say",
+            "Score": 4442,
+            "URL": "https://amp.cnn.com/cnn/2024/10/30/us/florida-teen-machete-arrest-early-voting",
+            "Created_UTC": 1730307518.0
+        },
+        {
+            "Title": "Hurricane Helene washed away homes in North Carolina. It also galvanized the early vote | 'We want to have a government that works,' says affected resident",
+            "Score": 490,
+            "URL": "https://www.cbc.ca/news/world/us-election-hurricane-helene-north-carolina-early-voting-1.7372457",
+            "Created_UTC": 1730725763.0
+        },
+        {
+            "Title": "Early voting data shows women outpacing men at the polls",
+            "Score": 3386,
+            "URL": "https://www.witn.com/2024/10/28/early-voting-data-shows-women-outpacing-men-polls/",
+            "Created_UTC": 1730229142.0
+        },
+        {
+            "Title": "Early voting among women voters in Georgia encourages Democrats, even as some polls favor Trump",
+            "Score": 148,
+            "URL": "https://www.gpb.org/news/2024/10/30/early-voting-among-women-voters-in-georgia-encourages-democrats-even-some-polls",
+            "Created_UTC": 1730401242.0
+        },
+        {
+            "Title": "Judge pauses early voting in St. Charles County after Republican official files suit",
+            "Score": 186,
+            "URL": "https://www.stltoday.com/news/local/government-politics/judge-pauses-early-voting-in-st-charles-county-after-republican-official-files-suit/article_676c7a2c-971b-11ef-bab2-436acacb7089.html",
+            "Created_UTC": 1730338338.0
+        },
+        {
+            "Title": "Americans Endorse Both Early Voting and Voter Verification",
+            "Score": 42,
+            "URL": "https://news.gallup.com/poll/652523/americans-endorse-early-voting-voter-verification.aspx?utm_source=gallup_brand&utm_medium=email&utm_campaign=front_page_october_5_10292024&utm_term=information&utm_content=full_story_textlink_2",
+            "Created_UTC": 1730229723.0
+        },
+        {
+            "Title": "Disinformation and distrust during early voting in US state of Pennsylvania",
+            "Score": 43,
+            "URL": "https://www.france24.com/en/tv-shows/focus/20241030-us-presidential-election-republicans-cry-fraud-amid-early-voting-in-pennsylvania",
+            "Created_UTC": 1730307556.0
+        },
+        {
+            "Title": "Polls show Harris with big early-vote lead \u2014 despite GOP gains ",
+            "Score": 1331,
+            "URL": "https://www.washingtonpost.com/politics/2024/10/31/polls-show-harris-with-big-early-vote-lead-despite-gop-gains/",
+            "Created_UTC": 1730401668.0
+        },
+        {
+            "Title": "Harris campaign senior advisor says they \u2018feel really good\u2019 about early voting numbers",
+            "Score": 2085,
+            "URL": "https://thehill.com/homenews/campaign/4960816-harris-campaign-senior-advisor-early-voting-numbers/",
+            "Created_UTC": 1730273012.0
+        },
+        {
+            "Title": "Oakland County\u2019s absentee, early voting numbers rising ahead of Nov. 5 presidential election",
+            "Score": 47,
+            "URL": "https://www.theoaklandpress.com/2024/10/30/oakland-countys-absentee-early-voting-numbers-rising-ahead-of-nov-5-presidential-election/",
+            "Created_UTC": 1730346251.0
+        },
+        {
+            "Title": "Over 1 million ballots and counting: Which Wisconsin county has seen the most early voting?",
+            "Score": 67,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/10/30/general-presidential-election-day-absentee-mail-in-ballots-early-voting-county-wisconsin/75915982007/",
+            "Created_UTC": 1730346398.0
+        },
+        {
+            "Title": "More than half million early voters in Georgia didn\u2019t vote in 2020",
+            "Score": 4211,
+            "URL": "https://www.seattletimes.com/nation-world/nation-politics/more-than-half-million-early-voters-in-georgia-didnt-vote-in-2020/",
+            "Created_UTC": 1730347617.0
+        },
+        {
+            "Title": "Georgia polling places could be \u2018ghost town\u2019 on Election Day after heavy early voting",
+            "Score": 88,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/10/30/georgia-record-pace-early-voting/75939445007/",
+            "Created_UTC": 1730308877.0
+        },
+        {
+            "Title": "Two charts and a map to help make sense of all the early voting data",
+            "Score": 0,
+            "URL": "https://www.nbcnews.com/data-graphics/2024-early-vote-data-map-rcna177666",
+            "Created_UTC": 1730403173.0
+        },
+        {
+            "Title": "Harris County breaks 2020 record for first week of early voting",
+            "Score": 2762,
+            "URL": "https://www.houstonpublicmedia.org/articles/voting/2024/10/28/504319/harris-county-breaks-previous-record-for-first-week-of-early-voting/",
+            "Created_UTC": 1730154913.0
+        },
+        {
+            "Title": "Biden votes early, calls Trump's NYC rally 'simply embarrassing'",
+            "Score": 3591,
+            "URL": "https://www.usatoday.com/story/news/politics/elections/2024/10/28/biden-votes-blasts-trump-msg/75896549007/",
+            "Created_UTC": 1730204052.0
+        },
+        {
+            "Title": "The \u2018Nauseously Optimistic\u2019 Kamala Campaign What they see in early voting, especially an overlooked slice of women, and how the map could shake out.",
+            "Score": 4,
+            "URL": "https://nymag.com/intelligencer/article/kamala-harris-campaign-early-voting-battleground-states.html",
+            "Created_UTC": 1730478330.0
+        },
+        {
+            "Title": "Dems see signs for optimism in gender gap in early vote",
+            "Score": 256,
+            "URL": "https://www.politico.com/news/2024/10/29/gender-gap-early-voting-00186155",
+            "Created_UTC": 1730254070.0
+        },
+        {
+            "Title": "We are Kammi Foote, Chief Election Information Officer at the U.S. Election Assistance Commission, and Bryce Bennett, Executive Director of Vote Early Day. Today is #VoteEarlyDay and we want to help every voter understand their options to vote early in-person or by mail. Ask Us Anything!",
+            "Score": 95,
+            "URL": "https://www.reddit.com/r/politics/comments/1gf10o4/we_are_kammi_foote_chief_election_information/",
+            "Created_UTC": 1730224808.0
+        },
+        {
+            "Title": "2024 election: Wisconsin early voting, more than 380K cast ballots",
+            "Score": 220,
+            "URL": "https://www.fox6now.com/news/wisconsin-early-voting-turnout-2024-election",
+            "Created_UTC": 1730067254.0
+        },
+        {
+            "Title": "Michigan early voting: More than 250,000 voters in first weekend, Secretary of State says",
+            "Score": 389,
+            "URL": "https://www.freep.com/story/news/politics/elections/2024/10/28/early-voting-in-michigan-results/75892197007/",
+            "Created_UTC": 1730136564.0
+        },
+        {
+            "Title": "Harris may have big early voting lead despite Trump\u2019s claims GOP is winning, polling suggests | Trump trails Harris by between 19 and 29 points among those who say they\u2019ve already cast their ballots, according to the polls",
+            "Score": 640,
+            "URL": "https://www.independent.co.uk/news/world/americas/us-politics/trump-harris-polls-election-early-voting-b2639582.html",
+            "Created_UTC": 1730497129.0
+        },
+        {
+            "Title": "The state of early voting: Which party is ahead, which states have the highest numbers, and more",
+            "Score": 7,
+            "URL": "https://www.independent.co.uk/news/world/americas/us-politics/early-voting-trump-haris-democrats-republican-map-chart-b2637628.html",
+            "Created_UTC": 1730231082.0
+        },
+        {
+            "Title": "First day of early voting sees more than 145,000 cast ballots",
+            "Score": 134,
+            "URL": "https://www.fox2detroit.com/news/first-day-early-voting-sees-more-than-145000-cast-ballots",
+            "Created_UTC": 1730052914.0
+        },
+        {
+            "Title": "Wisconsin elections officials report 40% increase in early voting",
+            "Score": 3797,
+            "URL": "https://abcnews.go.com/US/wireStory/wisconsin-elections-officials-report-40-increase-early-voting-115164487",
+            "Created_UTC": 1729903162.0
+        },
+        {
+            "Title": "Election clerk allegedly assaulted during early voting in San Antonio",
+            "Score": 311,
+            "URL": "https://www.texastribune.org/2024/10/25/texas-election-clerk-assault-san-antonio-trump-hat/",
+            "Created_UTC": 1729966643.0
+        },
+        {
+            "Title": "\"I didn't expect such a long line.\" Early voting underway across Lansing area",
+            "Score": 911,
+            "URL": "https://www.lansingstatejournal.com/story/news/local/community/2024/10/26/early-voting-michigan-lansing/75866017007/",
+            "Created_UTC": 1729974317.0
+        },
+        {
+            "Title": "Early voting in battleground Georgia brings in over half of 2020 total turnout",
+            "Score": 433,
+            "URL": "https://thehill.com/homenews/campaign/4954994-georgia-early-voting-inches-toward-2020-turnout/",
+            "Created_UTC": 1729972119.0
+        },
+        {
+            "Title": "Democrats launch 11th-hour ads to boost turnout among Black rural voters in South",
+            "Score": 651,
+            "URL": "https://abcnews.go.com/Politics/democrats-launch-11th-hour-ads-boost-turnout-black/story?id=115410824",
+            "Created_UTC": 1730568732.0
+        },
+        {
+            "Title": "Despite later start, 2024 early voting has already caught up to 2020 levels in Georgia and North Carolina",
+            "Score": 272,
+            "URL": "https://www.washingtonpost.com/elections/2024/10/24/early-voting-turnout/",
+            "Created_UTC": 1729995211.0
+        },
+        {
+            "Title": "Colorado early voting numbers show Democrats with slight edge over GOP voters",
+            "Score": 70,
+            "URL": "https://www.denverpost.com/2024/10/23/colorado-early-voting-numbers-election-democrats-republicans/",
+            "Created_UTC": 1729873545.0
+        },
+        {
+            "Title": "Election 2024: Nearly 2.2 million Michigan voters have cast ballots so far",
+            "Score": 195,
+            "URL": "https://www.bridgemi.com/michigan-government/election-2024-nearly-22-million-michigan-voters-have-cast-ballots-so-far",
+            "Created_UTC": 1730435562.0
+        },
+        {
+            "Title": "We are reporters from five newsrooms covering the 2024 election results. Ask us anything. \n",
+            "Score": 51,
+            "URL": "https://www.reddit.com/r/politics/comments/1gl1w0a/we_are_reporters_from_five_newsrooms_covering_the/",
+            "Created_UTC": 1730908979.0
+        },
+        {
+            "Title": "A look at false and misleading claims surrounding the 2024 election",
+            "Score": 38,
+            "URL": "https://apnews.com/video/pennsylvania-kamala-harris-kamala-harris-es-tim-walz-donald-trump-72ee710a7f3c4f07b6cdf88f03f00436",
+            "Created_UTC": 1730503144.0
+        },
+        {
+            "Title": "Texas turnout rate slightly down after first three days of early voting",
+            "Score": 14,
+            "URL": "https://www.texastribune.org/2024/10/25/texas-2024-election-early-vote-turnout/",
+            "Created_UTC": 1729865685.0
+        },
+        {
+            "Title": "5 mysteries that might determine the 2024 election",
+            "Score": 11,
+            "URL": "https://www.vox.com/2024-elections/381399/electorate-demographics-2024-election-women-republican-black-latino-voter",
+            "Created_UTC": 1730473950.0
+        },
+        {
+            "Title": "Election 2024: Early voting numbers top 1.9M across Georgia",
+            "Score": 300,
+            "URL": "https://www.fox5atlanta.com/news/election-2024-early-voting-numbers-top-1-9m-across-georgia",
+            "Created_UTC": 1729709551.0
+        },
+        {
+            "Title": "Texas sees record early-voting numbers, particularly in Democratic-leaning areas",
+            "Score": 7398,
+            "URL": "https://thehill.com/homenews/state-watch/4947150-texas-early-voting-turnout-record/",
+            "Created_UTC": 1729624049.0
+        },
+        {
+            "Title": "Early voting for 2024 election underway in dozens of states with 28 million ballots cast so far",
+            "Score": 170,
+            "URL": "https://www.cbsnews.com/news/early-voting-election-2024-28-million-ballots-cast-so-far/",
+            "Created_UTC": 1729806637.0
+        },
+        {
+            "Title": "Texas sees record early-voting numbers, particularly in Democratic-leaning areas",
+            "Score": 1001,
+            "URL": "https://thehill.com/homenews/state-watch/4947150-texas-early-voting-turnout-record/amp/",
+            "Created_UTC": 1729623557.0
+        },
+        {
+            "Title": "Democrats, Republicans near even in Nevada early voting turnout",
+            "Score": 114,
+            "URL": "https://lasvegassun.com/news/2024/oct/22/democrats-republicans-near-even-in-nevada-voting-t/",
+            "Created_UTC": 1729598558.0
+        },
+        {
+            "Title": "Counties Trump won in Ohio lead early voting numbers",
+            "Score": 39,
+            "URL": "https://www.news5cleveland.com/news/politics/ohio-politics/counties-trump-won-in-ohio-lead-early-voting-numbers",
+            "Created_UTC": 1729618808.0
+        },
+        {
+            "Title": "78% of early votes cast have been cast by people 50 or older",
+            "Score": 420,
+            "URL": "https://www.nbcnews.com/politics/2024-elections/early-vote",
+            "Created_UTC": 1729789077.0
+        },
+        {
+            "Title": "First day of Texas early voting for the 2024 election breaks turnout records",
+            "Score": 289,
+            "URL": "https://www.cbsnews.com/texas/news/texas-early-voting-2024-election-first-day-record/",
+            "Created_UTC": 1729639023.0
+        },
+        {
+            "Title": "Obama and Walz bait Trump campaign at Wisconsin rally in early voting push",
+            "Score": 193,
+            "URL": "https://www.theguardian.com/us-news/2024/oct/22/obama-walz-wisconsin-early-voting",
+            "Created_UTC": 1729643357.0
+        },
+        {
+            "Title": "Hi, Reddit! I'm Damian Paletta, I oversee the WSJ\u2019s Washington bureau. Ask me anything about the 2024 election.",
+            "Score": 16,
+            "URL": "https://www.reddit.com/r/politics/comments/1gfrop7/hi_reddit_im_damian_paletta_i_oversee_the_wsjs/",
+            "Created_UTC": 1730308195.0
+        },
+        {
+            "Title": "Harris holds 2:1 lead in early voting \u2013 as poll goers cite abortion as a main issue",
+            "Score": 2194,
+            "URL": "https://www.the-independent.com/news/world/americas/us-politics/trump-harris-polls-election-2024-b2633124.html",
+            "Created_UTC": 1729620364.0
+        },
+        {
+            "Title": "North Carolina early voting surpasses 1 million mark in first 4 days",
+            "Score": 703,
+            "URL": "https://www.wral.com/story/north-carolina-early-voting-surpasses-1-million-mark-in-first-4-days/21681703/",
+            "Created_UTC": 1729506879.0
+        },
+        {
+            "Title": "Vance urges voters to get 'a sense of humor' after comedian makes Puerto Rico slur at Trump rally",
+            "Score": 147,
+            "URL": "https://apnews.com/video/jd-vance-jd-vance-es-wausau-donald-trump-donald-trump-es-07aa467d47c14f1c924fb9e0b488739a",
+            "Created_UTC": 1730157212.0
+        },
+        {
+            "Title": "Nearly 30K participate in first day of early in-person voting in Clark County",
+            "Score": 269,
+            "URL": "https://www.8newsnow.com/news/local-news/nearly-30k-participate-in-first-day-of-early-in-person-voting-in-clark-county/",
+            "Created_UTC": 1729541562.0
+        },
+        {
+            "Title": "Georgia passes 1 million early voting mark",
+            "Score": 10809,
+            "URL": "https://www.ajc.com/politics/election/georgia-passes-1-million-vote-mark/KNMH3BTAJNELXJW7SYVZPZ34CU/",
+            "Created_UTC": 1729271865.0
+        },
+        {
+            "Title": "Over 1 million votes cast in North Carolina through 4 days of early in-person voting",
+            "Score": 2936,
+            "URL": "https://www.ncsbe.gov/news/press-releases/2024/10/20/north-carolina-tops-1-million-votes-cast",
+            "Created_UTC": 1729462319.0
+        },
+        {
+            "Title": "American voters face an online propaganda crisis",
+            "Score": 171,
+            "URL": "https://www.msnbc.com/opinion/msnbc-opinion/election-2024-disinformation-russia-iran-israel-rcna177259",
+            "Created_UTC": 1730067596.0
+        },
+        {
+            "Title": "Raffensperger denies voter fraud amid Georgia\u2019s historic early-vote turnout",
+            "Score": 446,
+            "URL": "https://thehill.com/homenews/campaign/4943671-georgia-voting-fraud-claims-dismissed/",
+            "Created_UTC": 1729517854.0
+        },
+        {
+            "Title": "Long lines as early, in-person voting begins in Las Vegas Valley",
+            "Score": 780,
+            "URL": "https://www.reviewjournal.com/news/politics-and-government/nevada/early-in-person-voting-has-arrived-in-las-vegas-valley-3192587/amp/",
+            "Created_UTC": 1729369389.0
+        },
+        {
+            "Title": "North Carolina Officials Report Record Turnout for First Day of Early Voting",
+            "Score": 673,
+            "URL": "https://www.nytimes.com/2024/10/18/us/politics/north-carolina-early-voting-record-turnout.html",
+            "Created_UTC": 1729370399.0
+        },
+        {
+            "Title": "Early voting surge seen as advantage for Harris campaign ",
+            "Score": 5091,
+            "URL": "https://thehill.com/homenews/campaign/4939892-early-voting-advantage-harris-campaign/",
+            "Created_UTC": 1729247628.0
+        },
+        {
+            "Title": "Texas voter registration surges to 18.6M just ahead of early voting",
+            "Score": 7300,
+            "URL": "https://www.houstonchronicle.com/politics/election/2024/article/texas-voter-registration-surge-19846636.php",
+            "Created_UTC": 1729309101.0
+        },
+        {
+            "Title": "Harris Says Trump Is 'Cruel' As She Spotlights Abortion Restrictions In Georgia During Early Voting ",
+            "Score": 1023,
+            "URL": "https://www.huffpost.com/entry/us-election-2024-harris-trump-georgia-abortion_n_67147362e4b03a110eb47910",
+            "Created_UTC": 1729412076.0
+        },
+        {
+            "Title": "Donald Trump Urges Women To Get 'Fat Pig' Husbands To Vote Early",
+            "Score": 162,
+            "URL": "https://www.newsweek.com/donald-trump-fat-pig-husbands-detroit-rally-1971600",
+            "Created_UTC": 1729515351.0
+        },
+        {
+            "Title": "North Carolina sets record for first day of early voting",
+            "Score": 3392,
+            "URL": "https://www.wral.com/north-carolina-sets-record-for-first-day-of-early-voting/21678861/",
+            "Created_UTC": 1729264762.0
+        },
+        {
+            "Title": "North Carolina breaks turnout record on first day of early voting",
+            "Score": 1292,
+            "URL": "https://www.washingtonpost.com/politics/2024/10/18/north-carolina-voting-turnout-record/",
+            "Created_UTC": 1729280613.0
+        },
+        {
+            "Title": "North Carolina officials report record turnout on the first day of early voting. ",
+            "Score": 498,
+            "URL": "https://www.nytimes.com/2024/10/18/us/politics/north-carolina-officials-report-record-turnout-on-the-first-day-of-early-voting.html?ogrp=dpl&unlocked_article_code=1.TU4.pK0p.e0yRsIGjqjmi&smid=url-share",
+            "Created_UTC": 1729312751.0
+        },
+        {
+            "Title": "Early voting record shattered in Georgia",
+            "Score": 3039,
+            "URL": "https://thehill.com/homenews/campaign/4935954-georgia-early-voting-record-shattered/",
+            "Created_UTC": 1729085208.0
+        },
+        {
+            "Title": "Georgia sees 2nd day of record early voting turnout",
+            "Score": 1906,
+            "URL": "https://abcnews.go.com/Politics/georgia-sees-2nd-day-record-early-voting-turnout/story?id=114872965",
+            "Created_UTC": 1729175972.0
+        },
+        {
+            "Title": "Record turnout in Georgia state as early voting begins in US election",
+            "Score": 234,
+            "URL": "https://www.aljazeera.com/news/2024/10/16/us-state-of-georgia-reports-record-turnout-on-first-day-of-early-voting",
+            "Created_UTC": 1729286003.0
+        }
+    ]
+}

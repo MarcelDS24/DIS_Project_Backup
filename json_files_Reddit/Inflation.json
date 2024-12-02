@@ -1,0 +1,604 @@
+{
+    "Inflation": [
+        {
+            "Title": "Inflation will return to haunt Trump, economist says",
+            "Score": 1312,
+            "URL": "https://www.cnbc.com/video/2024/11/28/inflation-will-return-to-haunt-trump-handelsbanken-economist-says.html",
+            "Created_UTC": 1732927584.0
+        },
+        {
+            "Title": "Alabama Medicaid cites inflation in seeking budget increase",
+            "Score": 20,
+            "URL": "https://alabamareflector.com/2024/11/27/alabama-medicaid-cites-inflation-in-seeking-budget-increase/",
+            "Created_UTC": 1732731216.0
+        },
+        {
+            "Title": "Mexican president warns Trump tariffs will worsen inflation, kill jobs",
+            "Score": 384,
+            "URL": "https://www.reuters.com/world/americas/mexican-president-tells-trump-tariffs-will-worsen-inflation-kill-jobs-2024-11-26/",
+            "Created_UTC": 1732635406.0
+        },
+        {
+            "Title": "Trump's proposed tariff increases would boost inflation by nearly 1%, Goldman Sachs estimates",
+            "Score": 402,
+            "URL": "https://www.cnbc.com/2024/11/26/trumps-proposed-tariff-increases-would-boost-inflation-by-nearly-1percent-goldman-sachs-estimates.html",
+            "Created_UTC": 1732641079.0
+        },
+        {
+            "Title": "The rising price of paying the national debt is a risk for Trump's promises on growth and inflation",
+            "Score": 138,
+            "URL": "https://apnews.com/article/trump-national-debt-inflation-economic-growth-spending-895ec1551122a0e1babf24b657f650bb",
+            "Created_UTC": 1732455749.0
+        },
+        {
+            "Title": "Trump should heed Larry Summers\u2019 inflation warning",
+            "Score": 24,
+            "URL": "https://www.thetimes.com/article/trump-should-heed-larry-summers-inflation-warning-fw5m83gsf",
+            "Created_UTC": 1732191633.0
+        },
+        {
+            "Title": "Scott Sheffield\u2019s collusion with OPEC artificially increased American energy costs, kickstarting the inflation crisis.",
+            "Score": 127,
+            "URL": "https://prospect.org/power/2024-05-07-mega-donor-scott-sheffield-opec-exxonmobil/",
+            "Created_UTC": 1732040448.0
+        },
+        {
+            "Title": "US utilities want Trump, Republicans to save inflation act, Edison CEO says",
+            "Score": 62,
+            "URL": "https://www.reuters.com/world/us/us-utilities-want-trump-republicans-save-inflation-act-edison-ceo-says-2024-11-16/",
+            "Created_UTC": 1731775152.0
+        },
+        {
+            "Title": "The Trump inflation shock could be worse than the last inflation crisis, Larry Summers warns",
+            "Score": 1190,
+            "URL": "https://www.cnn.com/2024/11/13/economy/inflation-trump-economy-larry-summers/index.html",
+            "Created_UTC": 1731522616.0
+        },
+        {
+            "Title": "Biden leaves Trump a booming economy, with almost no unemployment and inflation under control",
+            "Score": 2763,
+            "URL": "https://english.elpais.com/usa/elections/2024-11-08/biden-leaves-trump-a-booming-economy-with-almost-no-unemployment-and-inflation-under-control.html",
+            "Created_UTC": 1731530225.0
+        },
+        {
+            "Title": "Leading economist Nouriel Roubini warns Donald Trump's economic policies could lead to slower economic growth and inflation",
+            "Score": 109,
+            "URL": "https://www.abc.net.au/news/2024-11-14/nouriel-roubini-warns-trump-economics-slower-growth-inflation/104596714?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link",
+            "Created_UTC": 1731554156.0
+        },
+        {
+            "Title": "Inflation hit a bump in October after slowing for six straight months",
+            "Score": 3,
+            "URL": "https://www.cnn.com/2024/11/13/economy/us-inflation-cpi-prices-october/index.html",
+            "Created_UTC": 1731507995.0
+        },
+        {
+            "Title": "Inflation Picks Up to 2.6%, but Door Stays Open to Fed Rate Cut",
+            "Score": 3,
+            "URL": "https://www.wsj.com/economy/cpi-report-inflation-october-interest-rate-9590a488",
+            "Created_UTC": 1731507940.0
+        },
+        {
+            "Title": "What Donald Trump\u2019s Win Means For Inflation",
+            "Score": 69,
+            "URL": "https://time.com/7175083/donald-trump-presidency-inflation/",
+            "Created_UTC": 1731357303.0
+        },
+        {
+            "Title": "Get Ready for Trump-flation: Trump won the election in part because of a backlash against consumer price inflation on Biden\u2019s watch. Several Trump policies will make inflation much worse.",
+            "Score": 3671,
+            "URL": "https://prospect.org/economy/2024-11-07-get-ready-for-trump-flation/",
+            "Created_UTC": 1731087318.0
+        },
+        {
+            "Title": "Voters voiced frustration over inflation. Some economists expect Trump's policies to worsen it.",
+            "Score": 317,
+            "URL": "https://abcnews.go.com/Business/voters-voiced-frustration-inflation-economists-expect-trumps-policies/story?id=115560265",
+            "Created_UTC": 1731131031.0
+        },
+        {
+            "Title": "Trump Tariffs Expected to Spike Inflation, Interest Rates - Business Insider",
+            "Score": 1778,
+            "URL": "https://www.businessinsider.com/trump-tariffs-higher-inflation-fed-interest-rates-taxes-mortgage-rates-2024-11",
+            "Created_UTC": 1731001334.0
+        },
+        {
+            "Title": "Trump\u2019s economic plans would worsen inflation, experts say",
+            "Score": 335,
+            "URL": "https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed",
+            "Created_UTC": 1730929040.0
+        },
+        {
+            "Title": "Inflation pain helped secure Trump win but his policies mean higher prices",
+            "Score": 5136,
+            "URL": "https://www.theguardian.com/business/2024/nov/06/inflation-looks-to-have-secured-trump-win-but-his-policies-mean-higher-prices",
+            "Created_UTC": 1730895188.0
+        },
+        {
+            "Title": "Why Trump\u2019s return could spark another bout of inflation and delay interest rate cuts",
+            "Score": 179,
+            "URL": "https://www.cnn.com/2024/11/06/economy/inflation-interest-rates-donald-trump-presidency/index.html",
+            "Created_UTC": 1730929074.0
+        },
+        {
+            "Title": "Examining how economic plans from Trump and Harris could affect inflation",
+            "Score": 76,
+            "URL": "https://www.pbs.org/newshour/show/examining-how-economic-plans-from-trump-and-harris-could-affect-inflation",
+            "Created_UTC": 1730691681.0
+        },
+        {
+            "Title": "USDA partners with states to conserve private forestlands as part of Investing in America agenda | $265 million from the Inflation Reduction Act will conserve 335,000 acres of private forests",
+            "Score": 101,
+            "URL": "https://www.usda.gov/media/press-releases/2024/10/29/usda-partners-states-conserve-private-forestlands-part-investing",
+            "Created_UTC": 1730790122.0
+        },
+        {
+            "Title": "Trump\u2019s Immigration Policy Would Make Food Inflation Even Worse",
+            "Score": 266,
+            "URL": "https://www.bloomberg.com/news/articles/2024-11-01/trump-s-immigration-policy-would-make-food-inflation-even-worse",
+            "Created_UTC": 1730480937.0
+        },
+        {
+            "Title": "Experts: Harris proposal could ease housing crisis \u2014 while Trump plan would drive up inflation",
+            "Score": 1406,
+            "URL": "https://www.salon.com/2024/11/01/experts-harris-proposal-could-ease-housing--while-plan-would-drive-up-inflation/",
+            "Created_UTC": 1730481244.0
+        },
+        {
+            "Title": "US inflation falls to 2.1%, almost hitting Federal Reserve target",
+            "Score": 1508,
+            "URL": "https://www.theguardian.com/business/2024/oct/31/us-inflation-report",
+            "Created_UTC": 1730398774.0
+        },
+        {
+            "Title": "Inflation Is Basically Back to Normal. Why Do Voters Still Feel Blah?",
+            "Score": 117,
+            "URL": "https://www.nytimes.com/2024/10/31/business/economy/inflation-prices-economy.html",
+            "Created_UTC": 1730384920.0
+        },
+        {
+            "Title": "Inflation gauge closely watched by the Fed falls to lowest level since early 2021",
+            "Score": 159,
+            "URL": "https://apnews.com/article/inflation-prices-election-federal-reserve-rates-economy-e4ff4b6745ea1c8badd6a0502f372f25",
+            "Created_UTC": 1730399223.0
+        },
+        {
+            "Title": "The anticipation of a Trump win is sending mortgage rates soaring. Top economists say scorching inflation is very likely to go with it.",
+            "Score": 267,
+            "URL": "https://fortune.com/2024/11/01/donald-trump-mortgage-rates-harris-inflation-election/",
+            "Created_UTC": 1730484861.0
+        },
+        {
+            "Title": "A French gambler\u2019s $50m of bets inflated Trump\u2019s odds - and is threatening democracy",
+            "Score": 224,
+            "URL": "https://www.independent.co.uk/tech/polymarket-trump-betting-odds-latest-b2638206.html",
+            "Created_UTC": 1730389537.0
+        },
+        {
+            "Title": "Biden-Harris Administration\u2019s Inflation Reduction Act Saves Medicare Enrollees Nearly $1 Billion in Just the First Half of 2024",
+            "Score": 313,
+            "URL": "https://www.hhs.gov/about/news/2024/10/22/biden-harris-administrations-inflation-reduction-act-saves-medicare-enrollees-nearly-1-billion-just-first-half-2024.html",
+            "Created_UTC": 1730136512.0
+        },
+        {
+            "Title": "Statement by Vice President Kamala Harris on Americans Saving Nearly $1 Billion on Prescription Drugs Thanks to the Inflation Reduction Act",
+            "Score": 1695,
+            "URL": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/22/statement-by-vice-president-kamala-harris-on-americans-saving-nearly-1-billion-on-prescription-drugs-thanks-to-the-inflation-reduction-act/",
+            "Created_UTC": 1730001554.0
+        },
+        {
+            "Title": "IMF declares global fight against high inflation is 'almost won'",
+            "Score": 32,
+            "URL": "https://www.pbs.org/newshour/nation/imf-declares-global-fight-against-high-inflation-is-almost-won",
+            "Created_UTC": 1729869425.0
+        },
+        {
+            "Title": "IRS releases tax inflation adjustments for tax year 2025",
+            "Score": 9,
+            "URL": "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2025",
+            "Created_UTC": 1729864660.0
+        },
+        {
+            "Title": "Pro-Trump group funded by Musk struggles with outreach targets, inflation of doorknocking figures",
+            "Score": 245,
+            "URL": "https://www.reuters.com/world/us/pro-trump-group-funded-by-musk-struggles-with-outreach-targets-inflation-2024-10-18/",
+            "Created_UTC": 1729304941.0
+        },
+        {
+            "Title": "Treasury Secretary Janet Yellen warns \"sweeping, untargeted tariffs\" would reaccelerate inflation",
+            "Score": 347,
+            "URL": "https://www.cbsnews.com/news/yellen-speech-tariffs-will-increase-inflation-risk-trump/",
+            "Created_UTC": 1729175504.0
+        },
+        {
+            "Title": "Report: Inflation Reduction Act saves Bay State Medicare enrollees 100s of millions",
+            "Score": 143,
+            "URL": "https://www.bostonherald.com/2024/10/15/report-inflation-reduction-act-saves-bay-state-medicare-enrollees-100s-of-millions/",
+            "Created_UTC": 1729182410.0
+        },
+        {
+            "Title": "Trump\u2019s economic plans would worsen inflation, experts say",
+            "Score": 729,
+            "URL": "https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed",
+            "Created_UTC": 1728991542.0
+        },
+        {
+            "Title": "Immigration? Inflation? Nope\u2014Trump\u2019s Advertising Is Mostly Anti-Trans",
+            "Score": 194,
+            "URL": "https://newrepublic.com/article/187176/trump-campaign-advertising-anti-trans",
+            "Created_UTC": 1729025624.0
+        },
+        {
+            "Title": "Economists expect higher inflation, deficits, interest rates under Trump than Harris: Poll",
+            "Score": 1595,
+            "URL": "https://thehill.com/business/4932190-trump-harris-economy-survey/",
+            "Created_UTC": 1728928278.0
+        },
+        {
+            "Title": "Economists Say Inflation, Deficits Will Be Higher Under Trump Than Harris",
+            "Score": 434,
+            "URL": "https://www.wsj.com/politics/elections/economists-say-inflation-deficits-will-be-higher-under-trump-than-harris-0365588e",
+            "Created_UTC": 1728886227.0
+        },
+        {
+            "Title": "Trump wants to pin inflation on Harris. Most economists say prices will rise faster under him",
+            "Score": 541,
+            "URL": "https://fortune.com/2024/10/14/trump-wants-to-pin-inflation-on-harris-most-economists-say-prices-will-rise-faster-under-him/",
+            "Created_UTC": 1728932330.0
+        },
+        {
+            "Title": "Greg Abbott Boasted That Texas Removed 6,500 Noncitizens From Its Voter Rolls. That Number Was Likely Inflated.",
+            "Score": 77,
+            "URL": "https://www.propublica.org/article/texas-noncitizen-voter-roll-removal-included-americans",
+            "Created_UTC": 1728999834.0
+        },
+        {
+            "Title": "Gov. Greg Abbott boasted that Texas removed 6,500 noncitizens from its voter rolls. That number was likely inflated.",
+            "Score": 217,
+            "URL": "https://www.texastribune.org/2024/10/15/texas-noncitizen-voter-roll-removal-included-americans",
+            "Created_UTC": 1728989599.0
+        },
+        {
+            "Title": "Gov. Greg Abbott boasted that Texas removed 6,500 noncitizens from its voter rolls. That number was likely inflated. ",
+            "Score": 37,
+            "URL": "https://www.texastribune.org/2024/10/15/texas-noncitizen-voter-roll-removal-included-americans/",
+            "Created_UTC": 1728999669.0
+        },
+        {
+            "Title": "Black women and Latinas are driving Harris\u2019 inflation edge among women voters",
+            "Score": 235,
+            "URL": "https://19thnews.org/2024/10/harris-trump-women-voters-inflation-october-poll/",
+            "Created_UTC": 1728680669.0
+        },
+        {
+            "Title": "Inflation falls to 2.4%, lowest in three years",
+            "Score": 3524,
+            "URL": "https://www.axios.com/2024/10/10/cpi-report-september-inflation-economy",
+            "Created_UTC": 1728568307.0
+        },
+        {
+            "Title": "Inflation cools to lowest levels since February 2021",
+            "Score": 244,
+            "URL": "https://www.nbcnews.com/business/economy/inflation-report-september-2024-cost-of-living-rcna174740",
+            "Created_UTC": 1728584430.0
+        },
+        {
+            "Title": "Annual inflation rate drops to 2.4 percent, lowest since February 2021",
+            "Score": 427,
+            "URL": "https://thehill.com/business/4926065-annual-inflation-rate-ticks-lower-to-2-4-percent/",
+            "Created_UTC": 1728567794.0
+        },
+        {
+            "Title": "Trump is falsely blaming Harris for high prices. His plans will cause huge inflation | Steven Greenhouse",
+            "Score": 739,
+            "URL": "https://www.theguardian.com/commentisfree/2024/oct/09/trump-harris-inflation-economy",
+            "Created_UTC": 1728508369.0
+        },
+        {
+            "Title": "States forge ahead with Inflation Reduction Act energy rebates \u2014 so far, South Dakota is the only one to opt out",
+            "Score": 122,
+            "URL": "https://www.cnbc.com/2024/09/30/south-dakota-opts-out-of-inflation-reduction-act-energy-rebates.html",
+            "Created_UTC": 1728578389.0
+        },
+        {
+            "Title": "Biden-Harris Administration, NOAA announce $15.3 million to improve climate projections of extreme weather | Inflation Reduction Act to support NOAA, partner research for reliable, long-term climate projections",
+            "Score": 160,
+            "URL": "https://www.noaa.gov/news-release/biden-harris-administration-noaa-announce-153-million-to-improve-climate-projections",
+            "Created_UTC": 1728630080.0
+        },
+        {
+            "Title": "Benign Inflation Reading to Further Good Economic Tidings",
+            "Score": 61,
+            "URL": "https://www.usnews.com/news/economy/articles/2024-10-07/benign-inflation-reading-to-further-good-economic-tidings?utm_source=usn_yt",
+            "Created_UTC": 1728360926.0
+        },
+        {
+            "Title": "U.S. Department of the Treasury Announces More Than $2 Billion in Upfront Savings for Consumers on Electric and Plug-In Hybrid Vehicle Sales Under Biden-Harris Administration\u2019s Inflation Reduction Act",
+            "Score": 150,
+            "URL": "https://home.treasury.gov/news/press-releases/jy2626",
+            "Created_UTC": 1728413130.0
+        },
+        {
+            "Title": "Biden-Harris Administration Invests in Rural Communities to Lower Energy Costs and Create Jobs in 34 States as Part of Investing in America Agenda | Projects Funded by President Biden\u2019s Inflation Reduction Act Strengthen American Farms and Rural Small Businesses",
+            "Score": 129,
+            "URL": "https://www.usda.gov/media/press-releases/2024/10/03/biden-harris-administration-invests-rural-communities-lower-energy",
+            "Created_UTC": 1728322863.0
+        },
+        {
+            "Title": "JD Vance Makes the Case for the Inflation Reduction Act",
+            "Score": 43,
+            "URL": "https://heatmap.news/politics/jd-vance-debate-inflation-reduction-act",
+            "Created_UTC": 1727841027.0
+        },
+        {
+            "Title": "Georgia GOP state lawmaker: Trump\u2019s vow to repeal Inflation Reduction Act 'will have consequences\u2019",
+            "Score": 493,
+            "URL": "https://www.cnn.com/2024/09/26/politics/video/dalton-georgia-biden-trump-policies-digvid",
+            "Created_UTC": 1727635577.0
+        },
+        {
+            "Title": "Trump\u2019s big ideas would stunt U.S. growth and spur inflation",
+            "Score": 234,
+            "URL": "https://www.washingtonpost.com/opinions/2024/09/27/trump-harris-economic-plans/",
+            "Created_UTC": 1727460190.0
+        },
+        {
+            "Title": "Key Fed inflation gauge at 2.2% in August, lower than expected",
+            "Score": 362,
+            "URL": "https://www.cnbc.com/2024/09/27/pce-inflation-august-2024.html",
+            "Created_UTC": 1727443530.0
+        },
+        {
+            "Title": "Trump\u2019s promises would spike inflation and wipe out jobs, study finds",
+            "Score": 6020,
+            "URL": "https://www.cnn.com/2024/09/26/business/trump-inflation-jobs-tariffs-economy/index.html",
+            "Created_UTC": 1727354632.0
+        },
+        {
+            "Title": "Trump\u2019s promises would spike inflation and wipe out jobs, study finds",
+            "Score": 678,
+            "URL": "https://edition.cnn.com/2024/09/26/business/trump-inflation-jobs-tariffs-economy/index.html",
+            "Created_UTC": 1727369203.0
+        },
+        {
+            "Title": "Economists Warn Trump Policies Would Stoke Inflation",
+            "Score": 368,
+            "URL": "https://www.bloomberg.com/news/newsletters/2024-07-20/bloomberg-weekend-reading-economists-warn-trump-policies-would-stoke-inflation?utm_medium=cpc_search&utm_campaign=NB_ENG_DSAXX_DSAXXXXXXXXXX_EVG_XXXX_XXX_COUSA_EN_EN_X_BLOM_GO_SE_XXX_XXXXXXXXXX&gad_source=1&gbraid=0AAAAAD9e5ypTmcPEgVjmxrJ4tryRdobgD&gclid=CjwKCAjw6c63BhAiEiwAF0EH1KTH8ZUFIf5FTLquwu--9xrjiSkMrrNGPnSTIDRB1p10dWDUKOBjkhoCu8MQAvD_BwE&gclsrc=aw.ds",
+            "Created_UTC": 1727280061.0
+        },
+        {
+            "Title": "How J.D. Vance\u2019s hometown has won millions in climate investment that he calls a \u2018green scam\u2019 | \nMiddletown, Ohio received funding through the Inflation Reduction Act to build one of the largest hydrogen fuel furnaces in the world.",
+            "Score": 560,
+            "URL": "https://grist.org/energy/how-jd-vances-hometown-has-won-millions-in-climate-investment-that-he-calls-a-green-scam/",
+            "Created_UTC": 1727536174.0
+        },
+        {
+            "Title": "FTC Sues PBMs for Artificially Inflating Insulin Drug Prices.",
+            "Score": 190,
+            "URL": "https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sues-prescription-drug-middlemen-artificially-inflating-insulin-drug-prices",
+            "Created_UTC": 1726893996.0
+        },
+        {
+            "Title": "The Inflation Reduction Act Lives Up to Its Name",
+            "Score": 205,
+            "URL": "https://www.americanprogress.org/article/the-inflation-reduction-act-lives-up-to-its-name/",
+            "Created_UTC": 1726851168.0
+        },
+        {
+            "Title": "Federal Reserve cuts key rate by sizable half-point, signaling end to its inflation fight",
+            "Score": 142,
+            "URL": "https://apnews.com/article/0283bc6f92e9f9920094b78d821df227",
+            "Created_UTC": 1726682924.0
+        },
+        {
+            "Title": "Trump and Harris' views on inflation, according to their records and what they've said",
+            "Score": 24,
+            "URL": "https://www.cbsnews.com/news/trump-harris-inflation-2024/",
+            "Created_UTC": 1726680987.0
+        },
+        {
+            "Title": "Led by the South, clean energy sector added more than 150,000 jobs last year. The Inflation Reduction Act has fueled job growth in the clean energy industry, which employs nearly 3.5 million people in the U.S., a new report found.",
+            "Score": 194,
+            "URL": "https://www.nbcnews.com/science/science-news/clean-energy-job-growth-inflation-reduction-act-rcna171665",
+            "Created_UTC": 1726705400.0
+        },
+        {
+            "Title": "JD Vance repeats inflated immigration figures rejected by experts",
+            "Score": 425,
+            "URL": "https://www.cnbc.com/2024/09/12/vance-immigration-claim-harris-trump.html",
+            "Created_UTC": 1726193454.0
+        },
+        {
+            "Title": "Consumer inflation slows to lowest rate since February 2021",
+            "Score": 121,
+            "URL": "https://www.cnn.com/2024/09/11/economy/us-cpi-consumer-price-index-inflation-august/index.html",
+            "Created_UTC": 1726070979.0
+        },
+        {
+            "Title": "U.S. inflation rate hits 3-year low as Fed prepares rate cut",
+            "Score": 476,
+            "URL": "https://www.newsweek.com/us-inflation-rate-hits-3-year-low-fed-prepares-rate-cut-1952049",
+            "Created_UTC": 1726061330.0
+        },
+        {
+            "Title": "US inflation softens to lowest level since February 2021 as Fed prepares to cut interest rates",
+            "Score": 201,
+            "URL": "https://www.theguardian.com/business/2024/sep/11/august-inflation",
+            "Created_UTC": 1726083688.0
+        },
+        {
+            "Title": "Consumer prices rose 0.2% in August as annual inflation rate hits lowest since early 2021",
+            "Score": 116,
+            "URL": "https://www.cnbc.com/2024/09/11/cpi-inflation-report-august-2024-.html",
+            "Created_UTC": 1726069840.0
+        },
+        {
+            "Title": "Priority Climate Change Investments Under the Inflation Reduction Act",
+            "Score": 26,
+            "URL": "https://www.fisheries.noaa.gov/national/climate/priority-climate-change-investments-under-inflation-reduction-act",
+            "Created_UTC": 1725902725.0
+        },
+        {
+            "Title": "Yellen makes case for Inflation Reduction Act\u2019s clean energy tax credits in North Carolina",
+            "Score": 165,
+            "URL": "https://thehill.com/business/4864117-yellen-inflation-reduction-act-clean-energy-tax-credits-north-carolina/",
+            "Created_UTC": 1725848850.0
+        },
+        {
+            "Title": "U.S. Department of the Treasury, IRS announce $1.3 billion recovered from high-income, high-wealth individuals under Inflation Reduction Act initiatives",
+            "Score": 555,
+            "URL": "https://www.irs.gov/newsroom/us-department-of-the-treasury-irs-announce-13-billion-recovered-from-high-income-high-wealth-individuals-under-inflation-reduction-act-initiatives",
+            "Created_UTC": 1725727703.0
+        },
+        {
+            "Title": "Biden-Harris Administration Invests $140 Million to Lower Energy Costs, Create Jobs in Rural Nevada and Kentucky Communities | Projects Funded by President Biden\u2019s Inflation Reduction Act Spur Economic Growth in Rural Communities",
+            "Score": 189,
+            "URL": "https://www.usda.gov/media/press-releases/2024/08/29/biden-harris-administration-invests-140-million-lower-energy-costs",
+            "Created_UTC": 1725560306.0
+        },
+        {
+            "Title": "Harris suggests Green New Deal values implemented through Inflation Reduction Act",
+            "Score": 173,
+            "URL": "https://abc3340.com/amp/news/nation-world/harris-suggests-green-new-deal-values-implemented-through-inflation-reduction-act-kamala-harris-cnn-interview-dana-bash-climate-change-clean-energy-politics",
+            "Created_UTC": 1725316008.0
+        },
+        {
+            "Title": "This Election, It\u2019s Women\u2019s Choice | Polls showing that inflation will be the dominant issue in the upcoming election miss the potency of women\u2019s anger over abortion\u2014and their massive influence within the electorate.",
+            "Score": 164,
+            "URL": "https://msmagazine.com/2024/08/31/women-vote-abortion-pro-choice-elections-motivate/",
+            "Created_UTC": 1725383924.0
+        },
+        {
+            "Title": "Donald Trump's policies would make inflation surge, Nobel Prize-winning economist says",
+            "Score": 2196,
+            "URL": "https://qz.com/donald-trump-kamala-harris-economy-inflation-tax-tariff-1851634578",
+            "Created_UTC": 1725085696.0
+        },
+        {
+            "Title": "What the Inflation Reduction Act Has Meant for Healthcare 2 Years Later",
+            "Score": 83,
+            "URL": "https://www.commondreams.org/opinion/inflation-reduction-act-healthcare",
+            "Created_UTC": 1725130828.0
+        },
+        {
+            "Title": "Inflation Reduction Act is paying dividends to Maine",
+            "Score": 234,
+            "URL": "https://www.pressherald.com/2024/08/28/opinion-inflation-reduction-act-has-paid-dividends-to-maine/",
+            "Created_UTC": 1724957936.0
+        },
+        {
+            "Title": "The Fed\u2019s Preferred Inflation Gauge Stays Cool, Keeping a Rate Cut Imminent",
+            "Score": 63,
+            "URL": "https://www.nytimes.com/2024/08/30/business/economy/pce-inflation-fed-interest-rate.html",
+            "Created_UTC": 1725035786.0
+        },
+        {
+            "Title": "Kamala Harris campaign shifts attention to inflation",
+            "Score": 77,
+            "URL": "https://www.newsweek.com/kamala-harris-campaign-shifts-attention-inflation-1945018",
+            "Created_UTC": 1724839115.0
+        },
+        {
+            "Title": "Inflation Is Fading, Statistically and Politically",
+            "Score": 306,
+            "URL": "https://www.nytimes.com/2024/08/26/opinion/inflation-trump-harris-powell.html",
+            "Created_UTC": 1724785575.0
+        },
+        {
+            "Title": "Kamala Harris campaign shifts attention to inflation",
+            "Score": 71,
+            "URL": "https://www.newsweek.com/kamala-harris-campaign-shifts-attention-inflation-1945018",
+            "Created_UTC": 1724786370.0
+        },
+        {
+            "Title": "The typical U.S. worker out-earned inflation by $1,400 a year, data shows",
+            "Score": 97,
+            "URL": "https://www.nbcnews.com/business/economy/typical-us-worker-earned-inflation-1400-year-data-shows-rcna168579",
+            "Created_UTC": 1724864354.0
+        },
+        {
+            "Title": "Inflation Reduction Act 2-year report card: IRS continues to improve service, modernize online tools, pursue complex taxpayer arrangements used to evade taxes",
+            "Score": 132,
+            "URL": "https://www.irs.gov/newsroom/inflation-reduction-act-2-year-report-card-irs-continues-to-improve-service-modernize-online-tools-pursue-complex-taxpayer-arrangements-used-to-evade-taxes",
+            "Created_UTC": 1724910819.0
+        },
+        {
+            "Title": "Harris campaign releases new ad to highlight plans to build 3 million homes and reduce inflation",
+            "Score": 1452,
+            "URL": "https://apnews.com/article/harris-trump-housing-home-inflation-build-construction-00ae665790649d3b25d77a6cc0d111d0",
+            "Created_UTC": 1724754457.0
+        },
+        {
+            "Title": "Harris campaign releases new ad to highlight plans to build 3 million homes and reduce inflation",
+            "Score": 509,
+            "URL": "https://apnews.com/article/harris-trump-housing-home-inflation-build-construction-00ae665790649d3b25d77a6cc0d111d0",
+            "Created_UTC": 1724767207.0
+        },
+        {
+            "Title": "The Inflation Reduction Act is still our biggest step toward a brighter future for our children",
+            "Score": 176,
+            "URL": "https://www.phillytrib.com/commentary/the-inflation-reduction-act-is-still-our-biggest-step-toward-a-brighter-future-for-our/article_398c3d66-968f-5872-a371-5d97a33f0f76.html",
+            "Created_UTC": 1724695512.0
+        },
+        {
+            "Title": "Biden EPA Rejects Plastics Industry\u2019s Fuzzy Math That Misleads Customers About Recycled Content | The plastics industry uses a controversial accounting method to inflate the recycled content it advertises in products. A new EPA policy won\u2019t allow it for any products it endorses as a \u201cSafer Choice.\u201d",
+            "Score": 168,
+            "URL": "https://www.propublica.org/article/epa-rejects-mass-balance-plastics-recycling-safer-choice",
+            "Created_UTC": 1724948612.0
+        },
+        {
+            "Title": "Inflation Reduction Act's two-year anniversary brings big wins for clean energy",
+            "Score": 214,
+            "URL": "https://chicago.suntimes.com/columnists/2024/08/19/inflation-reduction-act-clean-energy-tax-credits-ben-jealous",
+            "Created_UTC": 1724614237.0
+        },
+        {
+            "Title": "Inflation Reduction Act Driving Historic Climate Action at National Parks",
+            "Score": 371,
+            "URL": "https://www.nps.gov/orgs/1207/inflation-reduction-act-driving-historic-climate-action-at-national-parks.htm",
+            "Created_UTC": 1724543727.0
+        },
+        {
+            "Title": "Real estate company helped to artificially inflate rents across America, Justice Department alleges",
+            "Score": 703,
+            "URL": "https://www.cnn.com/2024/08/23/business/realpage-doj-antitrust/index.html",
+            "Created_UTC": 1724451409.0
+        },
+        {
+            "Title": "Fact Sheet: Two Years In, the Inflation Reduction Act is Lowering Costs for Millions of Americans, Tackling the Climate Crisis, and Creating Jobs",
+            "Score": 1211,
+            "URL": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-two-years-in-the-inflation-reduction-act-is-lowering-costs-for-millions-of-americans-tackling-the-climate-crisis-and-creating-jobs/",
+            "Created_UTC": 1724433847.0
+        },
+        {
+            "Title": "\"Extremely dangerous\": Economists say Trump's inflation plan could badly backfire on workers",
+            "Score": 900,
+            "URL": "https://www.salon.com/2024/08/20/extremely-dangerous-economists-say-inflation-plan-could-badly-backfire-on-workers/",
+            "Created_UTC": 1724179595.0
+        },
+        {
+            "Title": "How the Inflation Reduction Act sparked a manufacturing and clean energy boom in the U.S.",
+            "Score": 395,
+            "URL": "https://www.cnbc.com/2024/08/20/inflation-reduction-act-sparked-a-manufacturing-clean-energy-boom.html",
+            "Created_UTC": 1724162512.0
+        },
+        {
+            "Title": "2 years after the Inflation Reduction Act became law, Oregon wins big",
+            "Score": 271,
+            "URL": "https://www.opb.org/article/2024/08/16/years-after-inflation-reduction-act-became-law-oregon-wins-federal-funding/",
+            "Created_UTC": 1724005403.0
+        },
+        {
+            "Title": "Harris unveils economic plans on inflation, housing. Here's what economists think",
+            "Score": 243,
+            "URL": "https://abcnews.go.com/Business/harris-unveils-economic-plans-inflation-housing-economists/story?id=112892305",
+            "Created_UTC": 1723940111.0
+        },
+        {
+            "Title": "Free Vasectomies and an Inflatable IUD: Abortion Rights Advocates Hit the D.N.C.",
+            "Score": 317,
+            "URL": "https://www.nytimes.com/2024/08/16/us/politics/dnc-abortion-rights.html",
+            "Created_UTC": 1723974605.0
+        }
+    ]
+}
